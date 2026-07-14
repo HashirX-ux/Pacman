@@ -13,3 +13,6 @@ Pacman is a web playable game that is built using HTML, CSS and Javascript. I di
 
 **What I did today:**
 
+So I am gonna start working on the map for my game cause its the one of the most essential things. I will start by configuring my html file: 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/76060256-d0fb-4a03-acfd-6a15207d3122" />
+<br>
