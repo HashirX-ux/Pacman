@@ -44,7 +44,9 @@ Now I wanna render the images in my folder that I have found online on some repo
 Now I am gonna be working on the pacman Images as for I did the same for my "Guys" Images .. 
 <img width="778" height="458" alt="image" src="https://github.com/user-attachments/assets/4747bddf-df54-42e8-b865-b492a145dc7d" />
 <br>
-
+Srsly dude .. TS is ragebaiting me for no reason dude I hate this. A SINGLE "I" ??????? SRSLY ??? Took me like 2 mins and I looked through the whole code man 
+<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/da2563de-a587-42a8-adab-5780ee8a431a" />
+<br>
 
 
 
