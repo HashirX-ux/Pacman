@@ -23,3 +23,8 @@ The board variable is gonna referance canvas tag:
 <img width="581" height="369" alt="image" src="https://github.com/user-attachments/assets/a248c844-8586-437d-967d-caa5097f08cb" />
 <br>
 For canvas I am gonna divide that into tiles. So for my map, I have 21 rows and 19 columns. Each tile is gonna be 32 x 32. So my width will be 19 x 32 and the height wil be 21 x 32.. 
+<br>
+As for my abocve description, I am gonna use these variables: 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/70230e5c-d3ea-483b-aff5-a3059d9b86e6" />
+<br>
+
