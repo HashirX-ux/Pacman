@@ -27,4 +27,15 @@ For canvas I am gonna divide that into tiles. So for my map, I have 21 rows and 
 As for my abocve description, I am gonna use these variables: 
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/70230e5c-d3ea-483b-aff5-a3059d9b86e6" />
 <br>
+32 px is kinda huge ik but the images I am gonna sue should alogn with that.. So I jsut loaded the document wiht the same pixelation measurements and so far so good for now.. 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/3dd1cc10-80f0-4016-bd96-6f1b2bdffcce" />
+<br>
+Now I am gonna be adding the images for the characters in the js file.. So these are gonna be the referances for ny characters that I am gonna use as villans 
+<img width="610" height="368" alt="image" src="https://github.com/user-attachments/assets/feb07e3d-7475-4d65-8a8f-6774640f12e7" />
+<br>
+Now for my main character turn.. and I am gonna add the referances for the left, right, Up and Down images.. 
+<img width="432" height="202" alt="image" src="https://github.com/user-attachments/assets/90ec2fbf-c0ab-4f28-98de-21ae4046cc47" />
+<br>
+
+
 
