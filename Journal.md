@@ -33,9 +33,14 @@ As for my abocve description, I am gonna use these variables:
 Now I am gonna be adding the images for the characters in the js file.. So these are gonna be the referances for ny characters that I am gonna use as villans 
 <img width="610" height="368" alt="image" src="https://github.com/user-attachments/assets/feb07e3d-7475-4d65-8a8f-6774640f12e7" />
 <br>
-Now for my main character turn.. and I am gonna add the referances for the left, right, Up and Down images.. 
+Now for my main character turn.. and I am gonna add the referances for the left, right, Up and Down images..<br> 
 <img width="452" height="242" alt="image" src="https://github.com/user-attachments/assets/918af2a0-c30d-425f-9550-51ee4b254b0d" />
 <br>
+So I am gonna be using these image assests for my character.. 
+<img width="405" height="597" alt="image" src="https://github.com/user-attachments/assets/61307479-250f-46c7-a2d4-f5b5c11724fe" />
+
+
+
 
 
 
