@@ -34,8 +34,9 @@ Now I am gonna be adding the images for the characters in the js file.. So these
 <img width="610" height="368" alt="image" src="https://github.com/user-attachments/assets/feb07e3d-7475-4d65-8a8f-6774640f12e7" />
 <br>
 Now for my main character turn.. and I am gonna add the referances for the left, right, Up and Down images.. 
-<img width="432" height="202" alt="image" src="https://github.com/user-attachments/assets/90ec2fbf-c0ab-4f28-98de-21ae4046cc47" />
+<img width="452" height="242" alt="image" src="https://github.com/user-attachments/assets/918af2a0-c30d-425f-9550-51ee4b254b0d" />
 <br>
+
 
 
 
