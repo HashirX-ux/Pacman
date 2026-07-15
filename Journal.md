@@ -55,16 +55,19 @@ Now I am gonna start creating the actual map that I am gonna use for this.. and 
 <br>
 <img width="515" height="718" alt="image" src="https://github.com/user-attachments/assets/369f6e56-a115-49b0-b115-5d4ab2850794" />
 I do havw wrote the configurations.. 
+<br>
 <img width="692" height="112" alt="image" src="https://github.com/user-attachments/assets/0d7d06f3-792b-4810-9e47-648ef0b161be" />
 <br>
 So everythime we see a symbol suppose X we are gonna create a wall block and I need a data structure to store all of these wall block So i am gonna use a set.. Set cuz it can only has unique values.. 
 <br>
 <img width="758" height="571" alt="image" src="https://github.com/user-attachments/assets/6874227b-510f-4ec8-9502-6793046bd22f" />
 <br>
-Since I only have one Pacman.. So no need for a collection.. 
+Since I only have one Pacman.. So no need for a collection..
+<br>
 <img width="508" height="228" alt="image" src="https://github.com/user-attachments/assets/e4b76ad2-2951-4a47-9c46-5134ea4eb3a5" />
 <br>
 The next thing I am gonna do Is to actually go thro the tile map.. 
+<br>
 <img width="743" height="264" alt="image" src="https://github.com/user-attachments/assets/cb5f4f32-6ace-413c-9a9c-e484181d4ffa" />
 Can't calculate ts tbh... 
 <img width="846" height="425" alt="image" src="https://github.com/user-attachments/assets/5c8f4dc1-c38c-4dfe-b87f-c0285dccd77c" />
