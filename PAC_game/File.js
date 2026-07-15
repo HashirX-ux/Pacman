@@ -1,3 +1,5 @@
+const { useDeferredValue } = require("react");
+
 // Board-size
 let board; 
 const rowCount = 21;
@@ -179,7 +181,11 @@ function draw() {
     }
     //Specifying the color for the rectangle:
     context.fillStyle = "red";
-    
+    //Iterating tho the set.. 
+    for(let food of foods.values()) {
+        
+    }
+
     
 } 
 
