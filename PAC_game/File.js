@@ -40,6 +40,8 @@ window.onload = function() {
 // Tile-Map configurations: 
 // X = wall, O = skip, P = pac man, ' ' = food
 // Ghosts: b = blue, o = orange, p = pink, r = red 
+
+//Modifiable Map.. 
 const tileMap = [
     "XXXXXXXXXXXXXXXXXXX",
     "X        X        X",
