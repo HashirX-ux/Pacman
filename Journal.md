@@ -138,5 +138,11 @@ So in accordance to my measurements and calculations that I mentioned above.. We
 Gonna comment this Cause I dont really want this in my console for now .. 
 <img width="648" height="186" alt="image" src="https://github.com/user-attachments/assets/100c68cb-fed8-4e4e-bf8f-bc9e3171bcad" />
 <br>
-Now I am gonna start the drawing part for the map and its configurations + measurements 
+Now I am gonna start the drawing part for the map and its configurations + measurements... So this function called "updatw" has to get called several number of times .. for frames per second.. 
+<img width="460" height="350" alt="image" src="https://github.com/user-attachments/assets/0a1f5a34-2528-4489-ad0e-79d2f2cf51f3" />
+<br>
+So 1 sec -> 1000ms so every 15ms I am gonna call this function in order to run frames for this.. 
+<img width="488" height="163" alt="image" src="https://github.com/user-attachments/assets/ce228f37-2a24-4a40-b52f-106e49330bcc" />
+<br>
+to make this easier.. lets say we have these frames for x and y position, So the game is repeating move --> draw --> move --> draw so So within 15ms its gonna call a new fram of move and draw and so loop goes in accordance.. 
 
