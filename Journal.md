@@ -149,8 +149,6 @@ to make this easier.. lets say we have these frames for x and y position, So the
 And I got Confused on ts again on ts.. tbh I My brain has just stopped working for some reason ..
 <br>
 <br>
-![alt text](image-3.png)
-<br>
 So I am gonna draw the x, y and width and height position by using this function.. 
-![alt text](image-4.png)
+
 <br>
