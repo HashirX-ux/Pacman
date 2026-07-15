@@ -192,6 +192,9 @@ LESSS GOOOO GNG WE HAVE THE FOOOOOOOOOOOOOOOOOOOOOOOODDDDDD!!!!
 You know the Bets part??? YOU CAN CHANGE THE MAAPPPPP
 <img width="394" height="685" alt="image" src="https://github.com/user-attachments/assets/a82af9a4-474c-40ce-851f-83997ca3ffa0" />
 <br>
+And DEFINATLY I didn't typed ts out gng.. I used ai for the mapp.. Cmon gng not typin ts tbh
+<img width="436" height="709" alt="image" src="https://github.com/user-attachments/assets/ce378951-bc8f-4ec7-98ad-eac9b03853b9" />
+<br>
 
 
 
