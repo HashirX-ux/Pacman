@@ -53,6 +53,9 @@ Now I am gonna start creating the actual map that I am gonna use for this.. and 
 I do havw wrote the configurations.. 
 <img width="692" height="112" alt="image" src="https://github.com/user-attachments/assets/0d7d06f3-792b-4810-9e47-648ef0b161be" />
 <br>
+So everythime we see a symbol suppose X we are gonna create a wall block and I need a data structure to store all of these wall block So i am gonna use a set.. Set cuz it can only has unique values.. 
+<img width="758" height="571" alt="image" src="https://github.com/user-attachments/assets/6874227b-510f-4ec8-9502-6793046bd22f" />
+<br>
 
 
 
