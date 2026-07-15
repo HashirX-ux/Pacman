@@ -178,7 +178,8 @@ function draw() {
         context.drawImage(wall.image, wall.x, wall.y, wall.width, wall.height);
     }
     //Specifying the color for the rectangle:
-     
+    context.fillStyle = "red";
+    
     
 } 
 
