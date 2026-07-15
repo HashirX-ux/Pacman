@@ -168,5 +168,12 @@ Walls TIME GNG....
 <br>
 Not this TIME BOR... I HAVE PLAYED THESE GAMES BEFOREEEEE!!
 <img width="490" height="174" alt="image" src="https://github.com/user-attachments/assets/ae66ccf3-f31b-423c-a9bd-26247d31751a" />
+Now I am gonna add the walls and their specified positions in accordance to my map.. 
+<img width="1076" height="188" alt="image" src="https://github.com/user-attachments/assets/cba19684-0a61-4851-b1ba-f911e2afa129" />
+<br>
+FIRST TRY BABY!!! LETS GOOOO:
+<img width="596" height="643" alt="image" src="https://github.com/user-attachments/assets/1a640125-bf56-4c80-97ed-5b8c99938693" />
+<br>
+Now here comes the hard part.. I DONT have the "FOOD" that My pacman is gonna eat So i am just gonna use rectangle for that purpose gng..
 
 
