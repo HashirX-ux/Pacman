@@ -173,6 +173,7 @@ function draw() {
     for(let guy of ghosts.values()) {
         context.drawImage(guy.image, guy.x, guy.y, guy.width, guy.height);
     }
+    //Specifying the images for the walls: 
     for(let wall of walls.values()) {
         context.drawImage(wall.image, wall.x, wall.y, wall.width, wall.height);
     }
