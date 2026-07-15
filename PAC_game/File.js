@@ -65,7 +65,7 @@ const tileMap = [
     "X XXXXXX X XXXXXX X",
     "X                 X",
     "XXXXXXXXXXXXXXXXXXX" 
-]; // defe  fine of ths  d
+]; 
 
 
 const walls = new Set(); 
