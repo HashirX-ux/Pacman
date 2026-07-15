@@ -186,6 +186,9 @@ Guess I am gonna use the last 2 brain cells of mine debugging ts.. I am tired at
 FOUND IT GNG ... TOOK 3 WHOLE MINUTES BRUHH.. I accidently wrote fillStyle as a function and there is not such a function and there should be fillRect instead of that bs.. 
 <img width="1280" height="301" alt="image" src="https://github.com/user-attachments/assets/c7d7d13c-357d-4289-a8eb-9c2e45fc1014" />
 <br>
+LESSS GOOOO GNG WE HAVE THE FOOOOOOOOOOOOOOOOOOOOOOOODDDDDD!!!!
+<img width="636" height="678" alt="image" src="https://github.com/user-attachments/assets/013c9abc-23ac-4aca-a016-66f99c048c05" />
+<br>
 
 
 
