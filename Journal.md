@@ -101,6 +101,10 @@ Don't know what to do right now gng .. I am soo coocked. My brain is not brainin
 <br>
 <img width="804" height="263" alt="image" src="https://github.com/user-attachments/assets/abc5725f-111e-4ec6-a32d-742e272bdab4" />
 <br>
+Since My brain long time ago, I couldn't just code so i unlocked my ASIAN EGNETICS AND BOOMM.. I failed again and gng the result in incremet the x and y cordinated by 14 and psecify their vlaues as the iterate tho the map by food referance.. 
+<br>
+<img width="650" height="63" alt="image" src="https://github.com/user-attachments/assets/d59910e7-1366-4b3b-9875-e1b0d78c85ea" />
+<br>
 
 
 
