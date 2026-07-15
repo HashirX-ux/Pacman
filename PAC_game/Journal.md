@@ -151,4 +151,4 @@ And I got Confused on ts again on ts.. tbh I My brain has just stopped working f
 <br>
 So I am gonna draw the x, y and width and height position by using this function.. 
 
-<br>
+<br> 
