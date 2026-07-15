@@ -93,6 +93,11 @@ I don't think If I am doing it correct way but I do think this should't throw an
 These configurations looks correct as I am gonna iterate them by their tag names which are p, r and etc for the map
 <img width="833" height="661" alt="image" src="https://github.com/user-attachments/assets/0664f996-66a4-4e3a-aca7-569e78f22e6f" />
 <br>
+<br>
+YES THEY ARE YOU SLUMMM!!!!!!!!!!!!!!
+<img width="849" height="408" alt="image" src="https://github.com/user-attachments/assets/24c16a88-3683-4d10-b8cd-4289e0e52d60" />
+<br>
+
 
 
 
