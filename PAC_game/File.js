@@ -174,7 +174,7 @@ function draw() {
         context.drawImage(guy.image, guy.x, guy.y, guy.width, guy.height);
     }
     for(let wall of walls.values) {
-        context.
+        context.drawImage(wall.image, )
     }
     
 } 
