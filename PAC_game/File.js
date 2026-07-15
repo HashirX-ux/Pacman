@@ -42,7 +42,7 @@ window.onload = function() {
 // Ghosts: b = blue, o = orange, p = pink, r = red 
 
 //Modifiable Map.. 
-//I DID'T TYPED THE MAP GNG.. I USED AI FOR THE MAP ONLY !!!
+//I DID'T TYPED THE MAP GNG.. I USED AI FOR THE MAP ONLY !!! dee fw
 const tileMap = [
     "XXXXXXXXXXXXXXXXXXX",
     "X        X        X",
@@ -55,7 +55,7 @@ const tileMap = [
     "XXXX X XXrXX X XXXX",
     "O       bpo       O",
     "XXXX X XXXXX X XXXX",
-    "OOOX X       X XOOO",
+    "OOOX X       X XOOO", 
     "XXXX X XXXXX X XXXX",
     "X        X        X",
     "X XX XXX X XXX XX X",
