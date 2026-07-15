@@ -64,6 +64,7 @@ const tileMap = [
     "XXXXXXXXXXXXXXXXXXX" 
 ]; 
 
+
 const walls = new Set(); 
 const foods = new Set();
 const ghosts = new Set();
