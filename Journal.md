@@ -166,5 +166,7 @@ Bro I wrote "value" instead of "values".. THAT STUPID "S" WAS RAGE VAITING ME FO
 Walls TIME GNG....
 <img width="706" height="238" alt="image" src="https://github.com/user-attachments/assets/f26d3b46-ce19-4e7b-b59f-8490c04dc5d0" />
 <br>
+Not this TIME BOR... I HAVE PLAYED THESE GAMES BEFOREEEEE!!
+<img width="490" height="174" alt="image" src="https://github.com/user-attachments/assets/ae66ccf3-f31b-423c-a9bd-26247d31751a" />
 
 
