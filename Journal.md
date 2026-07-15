@@ -174,6 +174,10 @@ Now I am gonna add the walls and their specified positions in accordance to my m
 FIRST TRY BABY!!! LETS GOOOO:
 <img width="596" height="643" alt="image" src="https://github.com/user-attachments/assets/1a640125-bf56-4c80-97ed-5b8c99938693" />
 <br>
-Now here comes the hard part.. I DONT have the "FOOD" that My pacman is gonna eat So i am just gonna use rectangle for that purpose gng..
+Now here comes the hard part.. I DONT have the "FOOD" that My pacman is gonna eat So i am just gonna use rectangle for that purpose gng..and in accordance to that I am gonna use the colors rectangle....
+<img width="481" height="69" alt="image" src="https://github.com/user-attachments/assets/31ad1631-d790-493f-9968-d68ec5fcb737" />
+<br>
+Now I am gonna iterate thro the set.. 
+
 
 
