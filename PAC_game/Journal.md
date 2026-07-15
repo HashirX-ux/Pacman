@@ -151,6 +151,6 @@ And I got Confused on ts again on ts.. tbh I My brain has just stopped working f
 <br>
 So I am gonna draw the x, y and width and height position by using this function.. 
 <img width="999" height="191" alt="image" src="https://github.com/user-attachments/assets/41178c60-9579-40ff-9928-4b6f58db1cde" />
-
 <br> 
+So Now I have specified the positions of the characters, Now that I have created ts in 6 DAMN HRS!!!! ABSOLUTE BRUIHHHHHHHHHHH... Cant believe dude .. 
 

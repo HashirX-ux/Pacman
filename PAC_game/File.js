@@ -168,8 +168,9 @@ function update() {
 function draw() {
     // Defining drawing positions of the board... 
     context.drawImage(pacman.image, pacman.x, pacman.y, pacman.width, pacman.height);
-    //setinterval --> Once define 
-}
+    //setinterval --> Once define  
+    
+} 
 
 
 class Block {
