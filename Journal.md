@@ -195,7 +195,7 @@ You know the Bets part??? YOU CAN CHANGE THE MAAPPPPP
 And DEFINATLY I didn't typed ts out gng.. I used ai for the mapp.. Cmon gng not typin ts tbh
 <img width="436" height="709" alt="image" src="https://github.com/user-attachments/assets/ce378951-bc8f-4ec7-98ad-eac9b03853b9" />
 <br>
-Now I am gonna add a "move: function after the draw function so I am quickly get my hands on that.. Since I have 18 tiles to the right that means that to the left I gotta go for the megative x.. ASIAN GENETICS 
+Now I am gonna add a "move: function after the draw function so I am quickly get my hands on that.. Since I have 18 tiles to the right that means that to the left I gotta go for the megative x and for the Right I am gonna be movind to the positive direction.. ASIAN GENETICS 
 
 
 
