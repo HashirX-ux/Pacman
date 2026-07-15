@@ -145,4 +145,6 @@ So 1 sec -> 1000ms so every 15ms I am gonna call this function in order to run f
 <img width="488" height="163" alt="image" src="https://github.com/user-attachments/assets/ce228f37-2a24-4a40-b52f-106e49330bcc" />
 <br>
 to make this easier.. lets say we have these frames for x and y position, So the game is repeating move --> draw --> move --> draw so So within 15ms its gonna call a new fram of move and draw and so loop goes in accordance to the frame rate.. 
-
+<br>
+And I got Confused on ts again on ts.. tbh I My brain has just stopped working for some reason .. 
+![alt text](image.png)

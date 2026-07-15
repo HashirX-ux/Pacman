@@ -159,6 +159,7 @@ function LoadMap() {
 
 function update() {
     draw();
+    setTimeout
 } 
 
 // FPS config --> 20FPS --> 1000ms / 20 * 50 per px changing frames so its move and draw cycle ..
@@ -169,7 +170,7 @@ function draw() {
 
     //setinterval --> Once 
 }
-de
+
 
 class Block {
     constructor(image, x, y, width, height){
