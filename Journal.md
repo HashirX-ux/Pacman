@@ -153,4 +153,6 @@ So I am gonna draw the x, y and width and height position by using this function
 <img width="999" height="191" alt="image" src="https://github.com/user-attachments/assets/41178c60-9579-40ff-9928-4b6f58db1cde" />
 <br> 
 So Now I have specified the positions of the characters, Now that I have created ts in 6 DAMN HRS!!!! ABSOLUTE BRUIHHHHHHHHHHH... Cant believe dude .. 
+<img width="789" height="677" alt="image" src="https://github.com/user-attachments/assets/433634aa-5553-4552-aba4-d23c7e332779" />
+<br>
 
