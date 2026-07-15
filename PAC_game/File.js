@@ -166,9 +166,9 @@ function update() {
 // FPS config --> 20FPS --> 1000ms / 20 * 50 per px changing frames so its move and draw cycle ..
 // Each px --> 32 x 32 
 function draw() {
-    //
+    // Defining drawing positions of the board... 
     context.drawImage(pacman.image, pacman.x, pacman.y, pacman.width, pacman.height)
-    //setinterval --> Once 
+    //setinterval --> Once define
 }
 
 
@@ -179,7 +179,7 @@ class Block {
     this.y = y;
     this.width = width;
     this.height = height;
-// Saving starting the X and Y position for the Guys and pacman 
+//Saving starting the X and Y position for the Guys and pacman 
     this.startX = x;
     this.startY = y;
    }
