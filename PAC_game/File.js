@@ -118,7 +118,7 @@ function LoadMap() {
             const y = r*tileSize;
 
         
-            //Blocking Wall
+            //Blocking-Wall
             if(tileMapChar == "X") {
                 const wall = new Block(wall_img, x, y, tileSize, tileSize);
                 walls.add(wall);
@@ -167,8 +167,15 @@ function update() {
 // Each px --> 32 x 32 
 function draw() {
     // Defining drawing positions of the board... 
-    context.drawImage(pacman.image, pacman.x, pacman.y, pacman.width, pacman.height);
     //setinterval --> Once define  
+    context.drawImage(pacman.image, pacman.x, pacman.y, pacman.width, pacman.height);
+    //Specifying the images of the ghosts by iterating them thro the iterable.. 
+    for(let guy of ghosts.values()) {
+        context.drawImage(guy.image, guy.x, guy.y, guy.width, guy.height);
+    }
+    for(let wall of walls.values) {
+        context.use
+    }
     
 } 
 
