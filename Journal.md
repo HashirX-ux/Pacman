@@ -189,6 +189,9 @@ FOUND IT GNG ... TOOK 3 WHOLE MINUTES BRUHH.. I accidently wrote fillStyle as a 
 LESSS GOOOO GNG WE HAVE THE FOOOOOOOOOOOOOOOOOOOOOOOODDDDDD!!!!
 <img width="636" height="678" alt="image" src="https://github.com/user-attachments/assets/013c9abc-23ac-4aca-a016-66f99c048c05" />
 <br>
+You know the Bets part??? YOU CAN CHANGE THE MAAPPPPP
+<img width="394" height="685" alt="image" src="https://github.com/user-attachments/assets/a82af9a4-474c-40ce-851f-83997ca3ffa0" />
+<br>
 
 
 
