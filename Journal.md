@@ -109,7 +109,16 @@ So the widht and height of the food itslef is gonna be 4 px by 4 px so this is x
 <br>
 <img width="490" height="163" alt="image" src="https://github.com/user-attachments/assets/a878571b-6914-49fe-b159-0a70dc4d55db" />
 <br>
-
-
-
+Obviously gng.. This is gonna happen again an again until my 2 braincells get cooked also.. 
+<img width="1280" height="603" alt="image" src="https://github.com/user-attachments/assets/09eae09f-3c75-4b8c-85ed-a97f81ae5672" />
+<br>
+Ladies and Gentlemen we have another one... Git ts is messing with me leftover 2 braincells 
+<br>
+<img width="1280" height="835" alt="image" src="https://github.com/user-attachments/assets/c0e966e9-cabe-45e4-89ea-a3385116e832" />
+Guess I am cooked fr gng pray for me.. 
+<img width="1096" height="408" alt="image" src="https://github.com/user-attachments/assets/ed208e3a-cdf5-4ed0-aa89-40707537ac44" />
+<br>
+IT WAS JSUT AN "S"??? ARE YOU SRS?? I missed an s for the wall so it had to be walls BRUHHH
+<img width="208" height="72" alt="image" src="https://github.com/user-attachments/assets/31d55262-be99-49df-9c16-11a5d5ec0cc2" />
+<br>
 
