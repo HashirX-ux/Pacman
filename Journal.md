@@ -155,4 +155,8 @@ So I am gonna draw the x, y and width and height position by using this function
 So Now I have specified the positions of the characters, Now that I have created ts in 6 DAMN HRS!!!! ABSOLUTE BRUIHHHHHHHHHHH... Cant believe dude .. 
 <img width="789" height="677" alt="image" src="https://github.com/user-attachments/assets/433634aa-5553-4552-aba4-d23c7e332779" />
 <br>
+These are gonna be the real pain in the ABS..
+<img width="1280" height="544" alt="image" src="https://github.com/user-attachments/assets/cdd484a2-83e9-44dc-9ea3-af6e50d79ad8" />
+<br>
+Goona try my best to resolve.. 
 
