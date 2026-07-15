@@ -180,6 +180,9 @@ Now here comes the hard part.. I DONT have the "FOOD" that My pacman is gonna ea
 Now I am gonna iterate thro the set.. 
 <img width="496" height="112" alt="image" src="https://github.com/user-attachments/assets/f00e11b9-4453-4187-ae1d-8d59915a025c" />
 <br>
+Guess I am gonna use the last 2 brain cells of mine debugging ts.. I am tired at this point tbh.. 
+<img width="1280" height="301" alt="image" src="https://github.com/user-attachments/assets/8dad1650-bcec-4d89-8856-ecd4586869ee" />
+<br>
 
 
 
