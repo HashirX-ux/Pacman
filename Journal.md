@@ -105,6 +105,11 @@ Since My brain long time ago, I couldn't just code so i unlocked my ASIAN EGNETI
 <br>
 <img width="650" height="63" alt="image" src="https://github.com/user-attachments/assets/d59910e7-1366-4b3b-9875-e1b0d78c85ea" />
 <br>
+So the widht and height of the food itslef is gonna be 4 px by 4 px so this is x and y gng.. I needed to switcxh positions so it could iterate easily.. So Now I am gonna call my map function and will print the size of each set.. Needs a little but of loading logic but for now I see it fine. 
+<br>
+<img width="490" height="163" alt="image" src="https://github.com/user-attachments/assets/a878571b-6914-49fe-b159-0a70dc4d55db" />
+<br>
+
 
 
 
