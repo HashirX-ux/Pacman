@@ -184,7 +184,6 @@ function draw() {
         context.fillRect(food.x, food.y, food.width, food.height);
     }
 
-    
 } 
 
 
