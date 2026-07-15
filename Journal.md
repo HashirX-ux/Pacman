@@ -147,5 +147,6 @@ So 1 sec -> 1000ms so every 15ms I am gonna call this function in order to run f
 to make this easier.. lets say we have these frames for x and y position, So the game is repeating move --> draw --> move --> draw so So within 15ms its gonna call a new fram of move and draw and so loop goes in accordance to the frame rate.. 
 <br>
 And I got Confused on ts again on ts.. tbh I My brain has just stopped working for some reason ..
+<br>
 ![alt text](image-2.png)
 
