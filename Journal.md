@@ -28,9 +28,11 @@ As for my abocve description, I am gonna use these variables:
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/70230e5c-d3ea-483b-aff5-a3059d9b86e6" />
 <br>
 32 px is kinda huge ik but the images I am gonna sue should alogn with that.. So I jsut loaded the document wiht the same pixelation measurements and so far so good for now.. 
+<br>
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/3dd1cc10-80f0-4016-bd96-6f1b2bdffcce" />
 <br>
 Now I am gonna be adding the images for the characters in the js file.. So these are gonna be the referances for ny characters that I am gonna use as villans 
+<br>
 <img width="610" height="368" alt="image" src="https://github.com/user-attachments/assets/feb07e3d-7475-4d65-8a8f-6774640f12e7" />
 <br>
 Now for my main character turn.. and I am gonna add the referances for the left, right, Up and Down images..<br> 
@@ -39,12 +41,14 @@ Now for my main character turn.. and I am gonna add the referances for the left,
 So I am gonna be using these image assests for my character.. 
 <img width="405" height="597" alt="image" src="https://github.com/user-attachments/assets/61307479-250f-46c7-a2d4-f5b5c11724fe" />
 Now I wanna render the images in my folder that I have found online on some repos. Since these Images are saved on mu fodler, I am gonna be rendering them by loading Images function and will use "./" to tell the js that its in this fodler that I am working on.. 
+<br>
 <img width="742" height="525" alt="image" src="https://github.com/user-attachments/assets/2d802fb7-cd7b-4c74-8697-2fbe3a625ccc" />
 <br>
 Now I am gonna be working on the pacman Images as for I did the same for my "Guys" Images .. 
 <img width="778" height="458" alt="image" src="https://github.com/user-attachments/assets/4747bddf-df54-42e8-b865-b492a145dc7d" />
 <br>
 Srsly dude .. TS is ragebaiting me for no reason dude I hate this. A SINGLE "I" ??????? SRSLY ??? Took me like 2 mins and I looked through the whole code man 
+<br>
 <img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/da2563de-a587-42a8-adab-5780ee8a431a" />
 <br>
 Now I am gonna start creating the actual map that I am gonna use for this.. and surely I am NOT gonna type ts out ... So I a little Ai for the map.. 
@@ -54,6 +58,7 @@ I do havw wrote the configurations..
 <img width="692" height="112" alt="image" src="https://github.com/user-attachments/assets/0d7d06f3-792b-4810-9e47-648ef0b161be" />
 <br>
 So everythime we see a symbol suppose X we are gonna create a wall block and I need a data structure to store all of these wall block So i am gonna use a set.. Set cuz it can only has unique values.. 
+<br>
 <img width="758" height="571" alt="image" src="https://github.com/user-attachments/assets/6874227b-510f-4ec8-9502-6793046bd22f" />
 <br>
 Since I only have one Pacman.. So no need for a collection.. 
