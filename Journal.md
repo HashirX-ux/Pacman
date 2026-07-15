@@ -72,6 +72,10 @@ The next thing I am gonna do Is to actually go thro the tile map..
 Can't calculate ts tbh... 
 <img width="846" height="425" alt="image" src="https://github.com/user-attachments/assets/5c8f4dc1-c38c-4dfe-b87f-c0285dccd77c" />
 <br>
+My math is not mathing gng.. Stupid brain has stopped working for some reason.. 
+<br>
+<img width="806" height="506" alt="image" src="https://github.com/user-attachments/assets/3dd00aeb-3d0f-4f32-a1ce-163f99cd57f7" />
+<br>
 
 
 
