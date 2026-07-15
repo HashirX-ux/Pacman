@@ -84,7 +84,15 @@ Ok gng .. we are going somewhere I guess..
 No idea tf am I doing with my life ................
 <img width="957" height="323" alt="image" src="https://github.com/user-attachments/assets/0b5c2821-ae73-4a59-8fd7-fa4f61b24226" />
 <br>
-
+Looks cute isnt it? 
+<img width="329" height="84" alt="image" src="https://github.com/user-attachments/assets/426367d5-ec27-45de-8e2a-d25848428730" />
+<br>
+I don't think If I am doing it correct way but I do think this should't throw any errors: 
+<img width="905" height="504" alt="image" src="https://github.com/user-attachments/assets/dd1d798c-6deb-4342-ad18-3a6cdc86a03f" />
+<br>
+These configurations looks correct as I am gonna iterate them by their tag names which are p, r and etc for the map
+<img width="833" height="661" alt="image" src="https://github.com/user-attachments/assets/0664f996-66a4-4e3a-aca7-569e78f22e6f" />
+<br>
 
 
 
