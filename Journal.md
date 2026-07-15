@@ -47,6 +47,14 @@ Now I am gonna be working on the pacman Images as for I did the same for my "Guy
 Srsly dude .. TS is ragebaiting me for no reason dude I hate this. A SINGLE "I" ??????? SRSLY ??? Took me like 2 mins and I looked through the whole code man 
 <img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/da2563de-a587-42a8-adab-5780ee8a431a" />
 <br>
+Now I am gonna start creating the actual map that I am gonna use for this.. and surely I am NOT gonna type ts out ... So I a little Ai for the map.. 
+<br>
+<img width="515" height="718" alt="image" src="https://github.com/user-attachments/assets/369f6e56-a115-49b0-b115-5d4ab2850794" />
+I do havw wrote the configurations.. 
+<img width="692" height="112" alt="image" src="https://github.com/user-attachments/assets/0d7d06f3-792b-4810-9e47-648ef0b161be" />
+<br>
+
+
 
 
 
