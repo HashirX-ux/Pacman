@@ -153,4 +153,20 @@ So I am gonna draw the x, y and width and height position by using this function
 <img width="999" height="191" alt="image" src="https://github.com/user-attachments/assets/41178c60-9579-40ff-9928-4b6f58db1cde" />
 <br> 
 So Now I have specified the positions of the characters, Now that I have created ts in 6 DAMN HRS!!!! ABSOLUTE BRUIHHHHHHHHHHH... Cant believe dude .. 
+<img width="789" height="677" alt="image" src="https://github.com/user-attachments/assets/433634aa-5553-4552-aba4-d23c7e332779" />
+<br>
+These are gonna be the real pain in the ABS..
+<img width="1280" height="544" alt="image" src="https://github.com/user-attachments/assets/cdd484a2-83e9-44dc-9ea3-af6e50d79ad8" />
+<br>
+Goona try my best to resolve...
+<br>
+Bro I wrote "value" instead of "values".. THAT STUPID "S" WAS RAGE VAITING ME FOR NOOOOOOOO REASONNNNNNNNN!!!!!
+<img width="382" height="181" alt="image" src="https://github.com/user-attachments/assets/3a98a50f-5bbc-4985-a097-3b1d714dc77b" />
+<br>
+Walls TIME GNG....
+<img width="706" height="238" alt="image" src="https://github.com/user-attachments/assets/f26d3b46-ce19-4e7b-b59f-8490c04dc5d0" />
+<br>
+Not this TIME BOR... I HAVE PLAYED THESE GAMES BEFOREEEEE!!
+<img width="490" height="174" alt="image" src="https://github.com/user-attachments/assets/ae66ccf3-f31b-423c-a9bd-26247d31751a" />
+
 
