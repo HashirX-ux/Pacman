@@ -117,7 +117,7 @@ function LoadMap() {
             const x = c*tileSize;
             const y = r*tileSize;
 
-            
+        
             //Blocking Wall
             if(tileMapChar == "X") {
                 const wall = new Block(wall_img, x, y, tileSize, tileSize);
