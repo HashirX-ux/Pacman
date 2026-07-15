@@ -183,6 +183,9 @@ Now I am gonna iterate thro the set..
 Guess I am gonna use the last 2 brain cells of mine debugging ts.. I am tired at this point tbh.. 
 <img width="1280" height="301" alt="image" src="https://github.com/user-attachments/assets/8dad1650-bcec-4d89-8856-ecd4586869ee" />
 <br>
+FOUND IT GNG ... TOOK 3 WHOLE MINUTES BRUHH.. I accidently wrote fillStyle as a function and there is not such a function and there should be fillRect instead of that bs.. 
+<img width="1280" height="301" alt="image" src="https://github.com/user-attachments/assets/c7d7d13c-357d-4289-a8eb-9c2e45fc1014" />
+<br>
 
 
 
