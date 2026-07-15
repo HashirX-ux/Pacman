@@ -132,4 +132,11 @@ Obviously I named all of my Guys wrong .. Totally my thing tbh
 <br>
 FINALLYYY !!!! IT TOOK FOREEVER BRUHH 
 <img width="1279" height="739" alt="image" src="https://github.com/user-attachments/assets/88ca1086-747b-4308-b27d-84338e367900" />
+So in accordance to my measurements and calculations that I mentioned above.. We have 196 walls and 184 food and 4 ghosts.. 
+<img width="127" height="169" alt="image" src="https://github.com/user-attachments/assets/51dcbecc-2e78-400a-9830-885defa42def" />
+<br>
+Gonna comment this Cause I dont really want this in my console for now .. 
+<img width="648" height="186" alt="image" src="https://github.com/user-attachments/assets/100c68cb-fed8-4e4e-bf8f-bc9e3171bcad" />
+<br>
+Now I am gonna start the drawing part for the map and its configurations + measurements 
 
