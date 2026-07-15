@@ -167,8 +167,8 @@ function update() {
 // Each px --> 32 x 32 
 function draw() {
     // Defining drawing positions of the board... 
-    context.drawImage(pacman.image, pacman.x, pacman.y, pacman.width, pacman.height)
-    //setinterval --> Once define
+    context.drawImage(pacman.image, pacman.x, pacman.y, pacman.width, pacman.height);
+    //setinterval --> Once define 
 }
 
 
