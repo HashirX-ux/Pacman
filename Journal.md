@@ -97,7 +97,10 @@ These configurations looks correct as I am gonna iterate them by their tag names
 YES THEY ARE YOU SLUMMM!!!!!!!!!!!!!!
 <img width="849" height="408" alt="image" src="https://github.com/user-attachments/assets/24c16a88-3683-4d10-b8cd-4289e0e52d60" />
 <br>
-
+Don't know what to do right now gng .. I am soo coocked. My brain is not braining.. IDK what to assign to the x value for the increment thro the map bty the food so Am I cooked? Probably
+<br>
+<img width="804" height="263" alt="image" src="https://github.com/user-attachments/assets/abc5725f-111e-4ec6-a32d-742e272bdab4" />
+<br>
 
 
 
