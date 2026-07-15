@@ -107,7 +107,7 @@ function LoadMap() {
     foods.clear();
     ghosts.clear();
 
-        
+    
     for(let r = 0; r < rowCount; r++){
         for(let c = 0; c < colCount; c++) {
             const row = tileMap[r];
