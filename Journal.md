@@ -121,4 +121,15 @@ Guess I am cooked fr gng pray for me..
 IT WAS JSUT AN "S"??? ARE YOU SRS?? I missed an s for the wall so it had to be walls BRUHHH
 <img width="208" height="72" alt="image" src="https://github.com/user-attachments/assets/31d55262-be99-49df-9c16-11a5d5ec0cc2" />
 <br>
+I am gonna throw fr this time.. TS is getting in my brain fr even tho I dont have one .. 
+<img width="1280" height="823" alt="image" src="https://github.com/user-attachments/assets/b822a712-16db-4d87-b47c-5956d1860871" />
+<br>
+Obviously I named them wrong. My dumb aahb didn't realised that these were wrong names that I used. Absolute bruh
+<img width="1060" height="516" alt="image" src="https://github.com/user-attachments/assets/4a999d24-9676-4d05-8b2b-c0a7da7b3e52" />
+<br>
+Obviously I named all of my Guys wrong .. Totally my thing tbh
+<img width="550" height="730" alt="image" src="https://github.com/user-attachments/assets/3e5ddf4e-c24b-4dc6-a171-02963a197110" />
+<br>
+FINALLYYY !!!! IT TOOK FOREEVER BRUHH 
+<img width="1279" height="739" alt="image" src="https://github.com/user-attachments/assets/88ca1086-747b-4308-b27d-84338e367900" />
 
