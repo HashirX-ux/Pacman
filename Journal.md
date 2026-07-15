@@ -76,7 +76,12 @@ My math is not mathing gng.. Stupid brain has stopped working for some reason..
 <br>
 <img width="806" height="506" alt="image" src="https://github.com/user-attachments/assets/3dd00aeb-3d0f-4f32-a1ce-163f99cd57f7" />
 <br>
-
+Ok gng .. we are going somewhere I guess.. 
+<img width="699" height="340" alt="image" src="https://github.com/user-attachments/assets/22580042-ef71-4c98-bc2a-a7a9b16fd12e" />
+<br>
+No idea tf am I doing with my life ................
+<img width="957" height="323" alt="image" src="https://github.com/user-attachments/assets/0b5c2821-ae73-4a59-8fd7-fa4f61b24226" />
+<br>
 
 
 
