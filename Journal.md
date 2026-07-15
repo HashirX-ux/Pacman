@@ -158,5 +158,13 @@ So Now I have specified the positions of the characters, Now that I have created
 These are gonna be the real pain in the ABS..
 <img width="1280" height="544" alt="image" src="https://github.com/user-attachments/assets/cdd484a2-83e9-44dc-9ea3-af6e50d79ad8" />
 <br>
-Goona try my best to resolve.. 
+Goona try my best to resolve...
+<br>
+Bro I wrote "value" instead of "values".. THAT STUPID "S" WAS RAGE VAITING ME FOR NOOOOOOOO REASONNNNNNNNN!!!!!
+<img width="382" height="181" alt="image" src="https://github.com/user-attachments/assets/3a98a50f-5bbc-4985-a097-3b1d714dc77b" />
+<br>
+Walls TIME GNG....
+<img width="706" height="238" alt="image" src="https://github.com/user-attachments/assets/f26d3b46-ce19-4e7b-b59f-8490c04dc5d0" />
+<br>
+
 
