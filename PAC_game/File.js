@@ -181,7 +181,7 @@ function draw() {
     context.fillStyle = "red";
     //Iterating tho the set.. 
     for(let food of foods.values()) {
-        context.fillStyle(food.x, food.y, food.width, food.height);
+        context.fillRect(food.x, food.y, food.width, food.height);
     }
 
     
@@ -202,4 +202,3 @@ class Block {
 }
 
 
-// file of the system
