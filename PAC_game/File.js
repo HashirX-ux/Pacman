@@ -326,7 +326,12 @@ function move() {
             shakeframes = 10;
             if(lives == 0) {
                 gameOver = true;
-                //
+                //Setting up highscore for the player.. 
+                if(score > highscore) {
+                    //Math.exe has stopped working again gng :(
+                    highscore = score;
+                    localStorage.setItem("pacmanHighscore", highscore);
+                }
                 return; 
                 //After the game is over need to stop the loop...
             }
