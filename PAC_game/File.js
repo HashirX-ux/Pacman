@@ -33,7 +33,9 @@ window.onload = function() {
     // console.log(ghosts.size);
 
     //Now the actual drawing part and I dont know what heck am I GONNA DOOO GNG
+    //Page Loader so gonna add some direction keys.. 
     update();      
+    
 
 }
 
