@@ -239,6 +239,13 @@ function draw() {
     for(let guy of ghosts.values()) {
         context.drawImage(guy.image, guy.x, guy.y, guy.width, guy.height);
     }
+
+    //Creating the classic NEON glow for the walls.. 
+    context.shadowColor = "cyan";
+    //Shadow blurring 8 for the classic neon look.. 
+     
+
+
     //Specifying the images for the walls: 
     for(let wall of walls.values()) {
         context.drawImage(wall.image, wall.x, wall.y, wall.width, wall.height);
