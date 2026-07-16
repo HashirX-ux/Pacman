@@ -44,13 +44,10 @@ const tileMap = [
     "XXXXXXXXXXXXXXXXXXX" 
 ]; 
 
-
 const walls = new Set(); 
 const foods = new Set();
 const ghosts = new Set();
 let pacman;
-
-
 
 //Directions list for the movement of the ghosts
 //Up and down and left and right directions...
@@ -80,7 +77,7 @@ window.onload = function() {
         const newDirection = directions[Math.floor(Math.random() * 4)];
         //Movewment for the randoom movement for the ghosts 
         ghost.updateDirection(newDirection);
-    }   
+    }  
     
     update();      
     // press on the and let go and key automatically comes back up
