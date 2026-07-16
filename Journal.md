@@ -379,6 +379,9 @@ Now After the count of 3 I wanna reset the game so I am gonna do that ...Also if
 Opps I guess the shaking is bugged lol .. 
 <img width="656" height="632" alt="image" src="https://github.com/user-attachments/assets/921ec9ea-a698-4569-9d6d-c97e1c3df19c" />
 <br>
+YAYAYA IT works .. 
+<img width="449" height="404" alt="image" src="https://github.com/user-attachments/assets/eb2e79dc-fb00-4795-a82f-f56af2a4fdd2" />
+<br>
 
 
 
