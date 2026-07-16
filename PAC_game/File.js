@@ -233,7 +233,8 @@ class Block {
         this.velocityY = 0; //No Motion in the Y direction ...
     }
     else if(this.direction == 'R') {
-        
+        this.velocityX = tileSize/4;
+        this.velocityY = 0;
     }
    }
 
