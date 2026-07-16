@@ -340,6 +340,10 @@ function colloision(a, b){
 }
 
 
+
+
+
+
 class Block {
     constructor(image, x, y, width, height){
     this.image = image;
@@ -404,8 +408,12 @@ class Block {
    }
 
 
-   // Adding a reset function for resetting the positions for the pacman and the ghosts...
-
+   //Adding a reset function for resetting the positions for the pacman and the ghosts...
+   //Resetting the X and Y positions back to the starting X and Y... 
+   reset() {
+    this.x = this.startX;
+    this.y = this.startY;
+   }
 
 }
 
