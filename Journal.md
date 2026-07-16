@@ -361,6 +361,9 @@ The next thing I wanna do is to make pacman colloide witth the a ghost.. So gonn
 Now for the ghost reset positions.. and gonna update that after the reset on the random directions.. 
 <img width="911" height="247" alt="image" src="https://github.com/user-attachments/assets/f46410cc-0bce-49c0-9c40-8257343d3ff9" />
 <br>
+Gang I am gonna chke my self fr.. I am doing these really stupid mistakes gng .. HELPP
+<img width="1278" height="379" alt="image" src="https://github.com/user-attachments/assets/9fe5aa6b-0990-4810-81b4-db22d8d6afa2" />
+<br>
 
 
 
