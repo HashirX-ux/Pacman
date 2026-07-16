@@ -192,10 +192,13 @@ function draw() {
     }
 
 } 
-
+    //Direction Config for the keys..
 function movePacman(){
-    if(e.code == "ArrowUp" || e.code == "keyW") {//sm
-
+    if(e.code == "ArrowUp" || e.code == "KeyW") {
+        movePacman.updateDirection('U');
+    }
+    else if(e.code == 'ArrowDown'){
+        
     }
 }
 
