@@ -216,7 +216,10 @@ class Block {
 
    //updating the velocity....
    updateVelocity() {
-
+    if(this.direction == 'U') {
+        this.velictyX = 0 //Since not moving in x direction 
+        this.velocityY = // 
+    }
    }
 
 
