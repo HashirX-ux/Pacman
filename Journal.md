@@ -197,6 +197,10 @@ And DEFINATLY I didn't typed ts out gng.. I used ai for the mapp.. Cmon gng not 
 <br>
 Now I am gonna add a "move: function after the draw function so I am quickly get my hands on that.. Since I have 18 tiles to the right that means that to the left I gotta go for the megative x and for the Right I am gonna be movind to the positive direction and same goes for the y direction gng HOLY.. ASIAN GENETICS 
 <br>
-Now I am gonna use somme physics and some maths..  4 frames would be 1 tile size so I am gonna change the x and y position each frame so each frame is gonma get updates by that..
+Now I am gonna use somme physics and some maths..  4 frames would be 1 tile size so I am gonna change the x and y position each frame so each frame is gonma get updates by that..Niw I am gona create velicity in the x and velocity in the y.. 
+<img width="415" height="192" alt="image" src="https://github.com/user-attachments/assets/1c564659-4ded-47f0-8860-e8b347d56af6" />
+<br>
+Now I am gonna create another function which is gonna update the direction and its gnna take a char to represent the direction .. 
+
 
 
