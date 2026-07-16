@@ -267,7 +267,7 @@ function draw() {
     context.font = "12px sans-serif";
     for(let i = scorePopups.length - 1; i >=0; i--) {
         //At this point my last 2 brain cells had left so I researched the login cuz im dumbbb gng ..
-        const p = socrePopups[i];
+        const p = scorePopups[i];
         //Refering the pop up after the death of the pacman...
         context.fillText("+10", p.x, p.y);
         // floating upword for the count.. 
@@ -276,7 +276,7 @@ function draw() {
         p.timer -= 1;
         if(p.timer <= 0) {
             //Didn't knew this splice method had existed.. I found it after googling it duhh
-            scorePopups.splice(i, 1);
+            scorePopups.splice(i, 1); 
         }
 
     }
