@@ -371,6 +371,9 @@ Gang I forgot my directions is a list not a functions and anow it works perfectl
 <img width="663" height="702" alt="image" src="https://github.com/user-attachments/assets/eb856efc-6916-476f-96ca-3fb0c786ff94" />
 <br>
 So after I got zero I want to get game over for the text after getting hit form the ghosts.. 
+<img width="592" height="239" alt="image" src="https://github.com/user-attachments/assets/d19257f9-319f-427e-90b3-7ad28b115bde" />
+<br>
+
 
 
 
