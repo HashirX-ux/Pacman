@@ -215,6 +215,8 @@ function draw() {
 
 
     //Setting the main pen to red...
+    context.fillStyle = "red";
+    context.font = "14px sans-serif";
     
 
 
