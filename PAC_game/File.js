@@ -77,6 +77,8 @@ const ghosts = new Set();
 let pacman;
 
 
+//Directions list for the movement of the ghosts
+const direction = ('U', 'D', 'L', 'R');
 
 function LoadImages() {
     // Guys Images 
