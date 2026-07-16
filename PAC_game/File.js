@@ -190,8 +190,12 @@ function draw() {
     for(let food of foods.values()) {
         context.fillRect(food.x, food.y, food.width, food.height);
     }
-
 } 
+
+
+
+
+
     //Direction Config for the keys..
 function movePacman(){
     if(e.code == "ArrowUp" || e.code == "KeyW") {
@@ -204,7 +208,7 @@ function movePacman(){
         movePacman.updateDirection('L');
     }
     else if(e.code == "ArrowRight" || e.code == "KeyD") {
-        movePacman.updateDirection('R');
+        movePacman.updateDirection('R');    
     } 
 }
 
