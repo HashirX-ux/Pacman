@@ -321,7 +321,11 @@ function movePacman(e){
     //reset game after 3 deaths..
     //resetting the food after the 3 deaths and the game over.. 
     LoadMap();
+    //reset the positons of the pacman and the ghosts...
     resetPositions();
+    //reset the lives after the game over..
+    lives = 3;
+
     //Upper Key config:
     if(e.code == "ArrowUp" || e.code == "KeyW") {
         pacman.updateDirection('U'); 
