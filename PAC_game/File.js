@@ -244,6 +244,10 @@ function move() {
     }
     
     for(let ghost of ghosts.values()) {
+
+        //Check the colooision of the ghost and the pacman 
+
+
         //Error config for the 9th row if they get stuck..Force em out.. 
         if(ghost.y == tileSize * 9 && ghost.direction != 'U' && ghost.direction != 'D') {
             ghost.updateDirection('U');  //For the upper motion of the ghosts..:D
