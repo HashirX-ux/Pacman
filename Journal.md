@@ -216,7 +216,7 @@ So Far so good gng ..
 Now for the horizontal directions.. 
 <img width="833" height="221" alt="image" src="https://github.com/user-attachments/assets/07be3437-5cc4-4c9a-aed8-ef0a2d4fecef" />
 <br>
-
+Now we are gonna call the updatedirection function and then update velocity and we need to press some keys for that
 
 
 
