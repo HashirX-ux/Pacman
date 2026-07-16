@@ -281,6 +281,9 @@ The problem is I only want to change the directions If there is not a wall in th
 Now that we know which wall we are gonna colide into once we find the colloision so we can just call return and its gonna exit the function and I guess thats how it all works gng.. 
 <img width="667" height="345" alt="image" src="https://github.com/user-attachments/assets/06416693-744d-4c39-948a-0782187b9914" />
 <br>
+HOLYY SHEEEEEESH AM I COOCKED??
+<img width="894" height="782" alt="image" src="https://github.com/user-attachments/assets/cdea033e-5c8e-411d-aedf-a6081a205986" />
+<br>
 
 
 
