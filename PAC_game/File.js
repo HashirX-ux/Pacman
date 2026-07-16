@@ -203,18 +203,18 @@ function move() {
     //Direction Config for the keys..
 function movePacman(e){
     if(e.code == "ArrowUp" || e.code == "KeyW") {
-        movePacman.updateDirection('U'); 
+        pacman.updateDirection('U'); 
     }
     else if(e.code == "ArrowDown" || e.code == "KeyS"){
-        movePacman.updateDirection('D');
+        pacman.updateDirection('D');
     }
     else if(e.code == "ArrowLeft" || e.code == "KeyA") {
-        movePacman.updateDirection('L');
+        pacman.updateDirection('L');
     }
     else if(e.code == "ArrowRight" || e.code == "KeyD") {
-        movePacman.updateDirection('R');    
+        pacman.updateDirection('R');    
     } 
-}
+}//de de eff re
 
 
 class Block {
