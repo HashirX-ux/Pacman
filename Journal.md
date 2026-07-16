@@ -242,7 +242,9 @@ Now we need to update the x and y position and in order to do so in a function c
 Here is how its gonna work: 
 <img width="505" height="128" alt="image" src="https://github.com/user-attachments/assets/6a6aa723-3d71-458b-96bf-fbbe96c629bb" />
 <br>
-
+So the cycle is move --> draw --> set timeout --> update again.. 
+<img width="869" height="164" alt="image" src="https://github.com/user-attachments/assets/72e9d6f3-adc0-48c4-9582-473efa5901a4" />
+<br>
 
 
 
