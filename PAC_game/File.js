@@ -70,6 +70,9 @@ window.onload = function() {
 
     //Now the actual drawing part and I dont know what heck am I GONNA DOOO GNG
     //Page Loader so gonna add some direction keys.. 
+    for(let ghost of ghosts.values()){
+        
+    }
     update();      
     // press on the and let go and key automatically comes back up
     document.addEventListener("keyup", movePacman);
