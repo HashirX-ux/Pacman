@@ -167,7 +167,7 @@ function LoadMap() {
 function update() {
     move();
     draw(); //Time for every cycle --> 50ms move and draw motion.. 
-    setTimeout(update, 50)
+    setTimeout(update, 50); //defining  
 } 
 
 // FPS config --> 20FPS --> 1000ms / 20 * 50 per px changing frames so its move and draw cycle ..
