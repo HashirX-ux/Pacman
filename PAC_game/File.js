@@ -101,13 +101,16 @@ function LoadImages() {
     wall_img = new Image();
     wall_img.src = "./wall.png"
     
-    // Guys Images 
+    //Guys Images 
+    //Blue guy image load 
     blueGuyImg = new Image();
     blueGuyImg.src= "./blueGhost.png";
 
+    //Red Guy image load 
     redGuyImg = new Image();
     redGuyImg.src= "./redGhost.png"
 
+    
     pinkGuyImg = new Image();
     pinkGuyImg.src = "./pinkGhost.png"
 
