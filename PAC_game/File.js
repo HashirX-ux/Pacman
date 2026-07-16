@@ -198,14 +198,14 @@ function movePacman(){
         movePacman.updateDirection('U');
     }
     else if(e.code == "ArrowDown" || e.code == "KeyS"){
-        movePacman.updateDirection("D");
+        movePacman.updateDirection('D');
     }
     else if(e.code == "ArrowLeft" || e.code == "KeyA") {
-        movePacman.updateDirection("L");
+        movePacman.updateDirection('L');
     }
     else if(e.code == "ArrowRight" || e.code == "KeyD") {
-        movePacman
-    }
+        movePacman.updateDirection('R');
+    } 
 }
 
 
