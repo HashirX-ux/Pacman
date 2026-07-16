@@ -35,7 +35,7 @@ let wall_img;
 //Game map 
 //each pixel = 32 x 32
 //total columns = 21
-//total rows = 19
+//total rows = 19 
 const tileMap = [
     "XXXXXXXXXXXXXXXXXXX",
     "X        X        X",
@@ -276,7 +276,8 @@ function draw() {
     else {
         context.fillText("x" + String(lives) + ' ' + String(score), tileSize/2, tileSize/2);
     }
-
+    
+    context.fillText("High: " + String(highscore), tileSize/2, tileSize/1.5);
     //Creating the popups animation after the death of the player or pacman NOOOOOOO
     context.fillStyle = "yellow";
     context.font = "12px sans-serif";
@@ -285,11 +286,7 @@ function draw() {
         const p = scorePopups[i];
         //Refering the pop up after the death of the pacman...
         context.fillText("+10", p.x, p.y);
-        //Highscore color after it is reached.. 
-        context.fillStyle = "red";
-        context.font = "14px sans-serif"; // No idea what it even means bruh..
-        //Changing the text color.. 
-        context.fillText("High: " + String(highscore), tileSize/2, tileSize/1.5);
+        //Changing the text color.. de wfewf fwe
         // floating upword for the count.. 
         p.y -= 0.5;
         //count down instead of the fading the pixels..
