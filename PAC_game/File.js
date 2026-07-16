@@ -200,7 +200,9 @@ function move() {
     pacman.y += pacman.velocityY; 
     
     //Checking the wall colloisions.. 
-    
+    for(let wall of walls.values()) {
+        
+    }
 
 }
 
