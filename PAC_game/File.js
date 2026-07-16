@@ -257,6 +257,8 @@ function move() {
          }
     }
 
+    //Check the colloisions with the food 
+
 }
 
     
