@@ -376,6 +376,9 @@ So after I got zero I want to get game over for the text after getting hit form 
 Now After the count of 3 I wanna reset the game so I am gonna do that ...Also if the player somehow eats all the food then I have to increase the level so .. 
 <img width="626" height="408" alt="image" src="https://github.com/user-attachments/assets/56ebb638-6331-489a-a7c7-6da2cd642e3e" />
 <br>
+Opps I guess the shaking is bugged lol .. 
+<img width="656" height="632" alt="image" src="https://github.com/user-attachments/assets/921ec9ea-a698-4569-9d6d-c97e1c3df19c" />
+<br>
 
 
 
