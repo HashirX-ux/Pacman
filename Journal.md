@@ -299,7 +299,9 @@ And Obviously I messed it up again..
 BRUH I had used different variable name for the image ... TOTDALLY RGAE BAITINGGGG
 <img width="311" height="189" alt="image" src="https://github.com/user-attachments/assets/8d10acd8-7267-4ea4-8fe1-5ac4fc1848db" />
 <br>
-
+YAYAY NOT IT WORKSSSSSS
+<img width="273" height="423" alt="image" src="https://github.com/user-attachments/assets/5b45b076-3f7f-4347-a7cb-bd3092591c33" />
+<br>
 
 
 
