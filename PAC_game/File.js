@@ -211,8 +211,8 @@ function move() {
 
 }
 
-
-
+    
+    //Keyboard control config: 
     //Direction Config for the keys...
 function movePacman(e){
     if(e.code == "ArrowUp" || e.code == "KeyW") {
