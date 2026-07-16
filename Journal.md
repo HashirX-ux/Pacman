@@ -201,6 +201,9 @@ Now I am gonna use somme physics and some maths..  4 frames would be 1 tile size
 <img width="415" height="192" alt="image" src="https://github.com/user-attachments/assets/1c564659-4ded-47f0-8860-e8b347d56af6" />
 <br>
 Now I am gonna create another function which is gonna update the direction and its gnna take a char to represent the direction .. 
+Now I am gonn aput the direction in the update direction function.. 
+<img width="557" height="181" alt="image" src="https://github.com/user-attachments/assets/ea0a9419-5f0e-4c4f-bf23-e7f2b618dcd1" />
+<br>
 
 
 
