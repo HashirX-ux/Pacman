@@ -217,6 +217,10 @@ Now for the horizontal directions..
 <img width="833" height="221" alt="image" src="https://github.com/user-attachments/assets/07be3437-5cc4-4c9a-aed8-ef0a2d4fecef" />
 <br>
 Now we are gonna call the updatedirection function and then update velocity and we need to press some keys for that
+<br>
+Gonna call a function called movepacman and its gonnna ge called everytime we press on the ket and LET go ..
+<img width="759" height="96" alt="image" src="https://github.com/user-attachments/assets/0e8bbcf3-2cb4-4e38-adad-7f04ec098cfd" />
+<br>
 
 
 
