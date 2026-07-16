@@ -275,6 +275,7 @@ So as the pacman hits the walls its gonna "stepback" and then again the function
 There is still and that is my pacman stop mid session as I hit any key along the barrier.. 
 <img width="605" height="405" alt="image" src="https://github.com/user-attachments/assets/93cf3c27-e0c4-4022-bc58-0641f4d422cd" />
 <br>
+The problem is I only want to change the directions If there is not a wall in the way soo.. 
 
 
 
