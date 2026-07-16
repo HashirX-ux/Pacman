@@ -77,6 +77,7 @@ const ghosts = new Set();
 let pacman;
 
 
+
 function LoadImages() {
     // Guys Images 
     wall_img = new Image();
