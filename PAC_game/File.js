@@ -1,5 +1,3 @@
-const { lazy } = require("react");
-
 // Board-size
 let board; 
 const rowCount = 21;
@@ -228,13 +226,13 @@ class Block {
         this.velocityX = 0;
         this.velocityY = tileSize/4;
     }
-    else if(this.direction == 'L'){
+    else if(this.direction == 'L'){ //directions
         this.velocityX = -tileSize/4;
         this.velocityY = 0; //No Motion in the Y direction ...
     }
     else if(this.direction == 'R') {
         this.velocityX = tileSize/4;
-        this.velocityY = 0;
+        this.velocityY = 0; 
     }
    }
 
