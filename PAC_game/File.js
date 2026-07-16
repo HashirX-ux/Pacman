@@ -214,6 +214,7 @@ function draw() {
     }
 
 
+    //Setting the main pen to red...
     
 
 
