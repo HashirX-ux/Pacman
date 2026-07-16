@@ -248,5 +248,8 @@ So the cycle is move --> draw --> set timeout --> update again..
 Obviously ts Aint leaning me with rage baiting.. 
 <img width="1280" height="404" alt="image" src="https://github.com/user-attachments/assets/81f6c4f0-7e43-4ea9-a4a8-a519fc6dba05" />
 <br>
+So BASCIALLY I GOTFO TO PUT THAT "e" in the parameter parantheses and thats why its shwoing thet e is not defined... BRUH 
+<img width="304" height="43" alt="image" src="https://github.com/user-attachments/assets/6d1668e4-446c-45d2-85df-ad85c5a0f11e" />
+<br>
 
 
