@@ -232,13 +232,13 @@ function move() {
          
          //Defining the wall colloisions for the ghosts.. 
          for(let wall of walls.values()) {
-            if(colloision(ghost, wall)) {
+            if(colloision(ghost, wall) || ghost.x <= 0 || ghost.x + ghost.width >= boardWidth) {
                 // for the x colloisions ..
                 ghost.x -= ghost.velocityX;
                 // for the y colloisions.. 
-                ghost.y -= ghost.velocityY;
+                ghost.y -= ghost.velocityY; //
                 
-                
+
                 //colloision system for the ghosts..
                 //Changing the directions for the ghosts everytime they colloide
                 const newDirection  = directions[Math.floor(Math.random()* 4)]
