@@ -7,9 +7,12 @@ const boardWidth = colCount * tileSize;
 const boardHeight = rowCount * tileSize;
 let context;
 
-// Additional features.. .
+
 //popups for the +10 points after eating the food
 const scorePopups = [];
+
+
+//High-Score for the players.... 
 
 
 
