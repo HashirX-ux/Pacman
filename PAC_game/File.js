@@ -313,7 +313,13 @@ function move() {
     foods.delete(foodEaten); 
 
 
-    //Going to the next level after eating all of the food.. 
+    //Going to the next level after eating all of the food...
+    if(foods.size == 0) {
+        //loadMap reloads the food and resets it to the max amount...
+        LoadMap();
+        //resetting the positions by calling the reset for the pacman and the ghosts or guy GUYSS
+        resetPositions();// dewwdw
+    }
 
 
 }
