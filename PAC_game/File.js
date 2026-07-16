@@ -211,6 +211,8 @@ function update() {
 // FPS config --> 20FPS --> 1000ms / 20 * 50 per px changing frames so its move and draw cycle ..
 // Each px --> 32 x 32 
 function draw() {
+    
+
     //clearing the canvas after the draw.. 
     context.clearRect(0, 0, board.width, board.height); 
     // Defining drawing positions of the board... 
@@ -267,7 +269,7 @@ function move() {
         if(colloision(ghost, pacman)) {
             //lives Counting for the pacman..
             lives -= 1;
-            //
+            //shaking the screen frame after the death.. 
             shakeframes = 10;
             if(lives == 0) {
                 gameOver = true;
