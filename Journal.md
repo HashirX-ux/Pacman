@@ -358,6 +358,9 @@ Guess it worked gng..
 The next thing I wanna do is to make pacman colloide witth the a ghost.. So gonna Check the colooision of the ghost and the pacman So after colloision I want to reset the positions of the pacman and the ghosts.. 
 <img width="523" height="286" alt="image" src="https://github.com/user-attachments/assets/565f768f-cea2-4691-a650-63e3d715970a" />
 <br>
-Now for the ghost reset positions.. 
+Now for the ghost reset positions.. and gonna update that after the reset on the random directions.. 
+<img width="911" height="247" alt="image" src="https://github.com/user-attachments/assets/f46410cc-0bce-49c0-9c40-8257343d3ff9" />
+<br>
+
 
 
