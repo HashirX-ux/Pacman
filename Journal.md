@@ -329,6 +329,9 @@ Now I am gonna check for the wall colloisions for the ghosts ..
 Now after the colloision its gonna take a step back but but the issue is its gonna repeat that and try move forword and step back again so its gonna become a loop so I want the ghost to chnage the direction of the ghosts everytime its hits the wall.. 
 <img width="924" height="335" alt="image" src="https://github.com/user-attachments/assets/2686b948-80f3-44df-b39a-301e65b3dafd" />
 <br>
+I am pretty sure I am about to pass out now.. 
+<img width="818" height="206" alt="image" src="https://github.com/user-attachments/assets/81ba4e74-b2a0-4aa0-98d6-034218dcfaae" />
+<br>
 
 
 
