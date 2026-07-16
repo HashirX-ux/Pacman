@@ -245,6 +245,8 @@ Here is how its gonna work:
 So the cycle is move --> draw --> set timeout --> update again.. 
 <img width="869" height="164" alt="image" src="https://github.com/user-attachments/assets/72e9d6f3-adc0-48c4-9582-473efa5901a4" />
 <br>
-
+Obviously ts Aint leaning me with rage baiting.. 
+<img width="1280" height="404" alt="image" src="https://github.com/user-attachments/assets/81f6c4f0-7e43-4ea9-a4a8-a519fc6dba05" />
+<br>
 
 
