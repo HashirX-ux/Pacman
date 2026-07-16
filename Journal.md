@@ -251,5 +251,8 @@ Obviously ts Aint leaning me with rage baiting..
 So BASCIALLY I GOTFO TO PUT THAT "e" in the parameter parantheses and thats why its shwoing thet e is not defined... BRUH 
 <img width="304" height="43" alt="image" src="https://github.com/user-attachments/assets/6d1668e4-446c-45d2-85df-ad85c5a0f11e" />
 <br>
+And OFCOURSE WE HAVE MORE
+<img width="1265" height="379" alt="image" src="https://github.com/user-attachments/assets/52ffa149-adc2-4e53-98a6-d342965299e7" />
+<br>
 
 
