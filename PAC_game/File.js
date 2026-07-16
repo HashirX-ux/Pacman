@@ -274,6 +274,8 @@ class Block {
                 this.y -= velocityY; 
                 this.direction = prevDirection; 
                 this.updateVelocity();
+                //We don't need to chk cause we know which wall we are gonna collidde
+                
             }
         }
    } 
