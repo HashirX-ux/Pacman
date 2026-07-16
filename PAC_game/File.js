@@ -262,7 +262,15 @@ function draw() {
         context.fillText("x" + String(lives) + ' ' + String(score), tileSize/2, tileSize/2);
     }
 
-    
+    //Creating the popups animation after the death of the player or pacman NOOOOOOO
+    context.fillStyle = "yellow";
+    context.font = "12px sans-serif";
+    for(let i = scorePopups.length - 1; i >=0; i--) {
+        //At this point my last 2 brain cells had left so I researched the login cuz im dumbbb gng ..
+        const p = socrePopups[i];
+        //Refering the pop up after the death of the pacman...
+        context.fillText("+10", p.x, p.y);
+    }
 
 
     //restore for the default positions of the shaking X and Y directions..
