@@ -257,10 +257,14 @@ function move() {
          }
     }
 
-    //Check the colloisions with the food 
+    //Check the colloisions with the food for out Main character PACMANN..
     let foodEaten = null;
     for(let food of food.values()) {
-        
+        if(colloision(pacman, food)) {
+            foodEaten = food;
+            score += 10;
+            break;
+        }
     }
 
 }
