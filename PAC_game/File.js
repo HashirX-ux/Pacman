@@ -165,8 +165,8 @@ function LoadMap() {
 }   
 
 function update() {
-    draw();
-    //Time for every cycle --> 50ms move and draw motion.. 
+    move();
+    draw(); //Time for every cycle --> 50ms move and draw motion.. 
     setTimeout(update, 50)
 } 
 
@@ -195,7 +195,7 @@ function draw() {
 //Movement handling function of the game...
 function move() {
     pacman.x += pacman.velocityX;
-    pacman.y += pacman.velocityY;
+    pacman.y += pacman.velocityY; 
 }
 
 
