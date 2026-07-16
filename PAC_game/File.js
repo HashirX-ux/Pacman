@@ -201,9 +201,13 @@ class Block {
 //Saving starting the X and Y position for the Guys and pacman 
     this.startX = x;
     this.startY = y;  
-
+    
     this.direction = 'R';
+    this.velocityX = 0;
+    this.velocityY = 0;
    }
 }
+
+
 
 
