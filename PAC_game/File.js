@@ -262,6 +262,8 @@ function draw() {
         context.fillText("x" + String(lives) + ' ' + String(score), tileSize/2, tileSize/2);
     }
 
+    
+
 
     //restore for the default positions of the shaking X and Y directions..
     context.restore();
@@ -333,6 +335,8 @@ function move() {
         if(colloision(pacman, food)) {
             foodEaten = food;
             score += 10;
+            //This scorePopups section is googled gng cuz my dumb ahh didn't knew the syntax .. cmon gng plss :)))
+            scorePopups.push({x: pacman.x, y: pacman.y, timer: 20})
             break;
         }
     }
