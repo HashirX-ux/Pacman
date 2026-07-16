@@ -52,6 +52,7 @@ let pacman;
 
 
 //Directions list for the movement of the ghosts
+//Up and down and left and right directions...
 const direction = ('U', 'D', 'L', 'R');
 
 
