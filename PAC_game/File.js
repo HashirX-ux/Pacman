@@ -226,7 +226,8 @@ function movePacman(e){
     }
     else if(e.code == "ArrowRight" || e.code == "KeyD") {
         pacman.updateDirection('R');    
-    } 
+    }
+    
 }
 
 //Colloision systen of the walls.... 
