@@ -254,5 +254,8 @@ So BASCIALLY I GOTFO TO PUT THAT "e" in the parameter parantheses and thats why 
 And OFCOURSE WE HAVE MORE
 <img width="1265" height="379" alt="image" src="https://github.com/user-attachments/assets/52ffa149-adc2-4e53-98a6-d342965299e7" />
 <br>
+Found it gng.. Dont listen to music while you CODEEEEE
+<img width="180" height="320" alt="image" src="https://github.com/user-attachments/assets/7c7ebcff-3413-453c-b204-25016a42f123" />
+<br>
 
 
