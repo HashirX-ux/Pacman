@@ -185,7 +185,12 @@ function LoadMap() {
 }   
 
 function update() {
-    move();
+    //Stopping the loop for the gameOver section to exit the game..
+    if(gameOver) {
+        // return once cause we dont call settime out and hence we stop calling the update 
+        return;
+    }
+    move(); 
     draw(); //Time for every cycle --> 50ms move and draw motion.. 
     setTimeout(update, 50); 
 } 
@@ -251,7 +256,8 @@ function move() {
             lives -= 1;
             if(lives == 0) {
                 gameOver = true;
-                return;//f ewfw
+                return; 
+                //After the game is over need to stop the loop...
             }
         //Function for Resetting the positions of the pacman and the ghosts after the colloision..
             resetPositions();
