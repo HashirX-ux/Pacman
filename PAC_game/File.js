@@ -218,7 +218,10 @@ function movePacman(e){
     } 
 }
 
+//Colloision systen of the walls.... 
+function colloision(a, b){
 
+}
 
 
 class Block {
