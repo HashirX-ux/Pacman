@@ -319,16 +319,22 @@ function move() {
 function movePacman(e){
     //Gonna reset the game after the user dies 3 time (NOT LITERALLY!)
     //reset game after 3 deaths..
-            
+    //resetting the food after the 3 deaths and the game over.. 
+    LoadMap();
+    resetPositions();
+    //Upper Key config:
     if(e.code == "ArrowUp" || e.code == "KeyW") {
         pacman.updateDirection('U'); 
     }
+    //lower/Down Key config:
     else if(e.code == "ArrowDown" || e.code == "KeyS"){
         pacman.updateDirection('D');
     }
+    //Left Key config:
     else if(e.code == "ArrowLeft" || e.code == "KeyA") {
         pacman.updateDirection('L');
     }
+    //Right Key config: 
     else if(e.code == "ArrowRight" || e.code == "KeyD") {
         pacman.updateDirection('R');    
     }
