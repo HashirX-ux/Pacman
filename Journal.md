@@ -207,5 +207,12 @@ Now I am gonn aput the direction in the update direction function..
 Math has stopped mathing gng.. .:((((
 <img width="449" height="165" alt="image" src="https://github.com/user-attachments/assets/e7e89bd9-742d-48ce-830b-64af91563321" />
 <br>
+Direction control is really easy and its just simple maths.. I am just gonna specify the pacman direction by the up, down left and right keys so that would be easy to understand and play :D
+<img width="807" height="390" alt="image" src="https://github.com/user-attachments/assets/a813c5d5-899b-49d2-814d-7b2301917938" />
+<br>
+
+
+
+
 
 
