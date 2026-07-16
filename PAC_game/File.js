@@ -266,6 +266,7 @@ class Block {
         this.x += this.velocityX;
         this.y += this.velocityY;
 
+        // Iterating thro the set of walls... 
         
    } 
 
