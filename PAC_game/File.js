@@ -200,6 +200,9 @@ function movePacman(){
     else if(e.code == "ArrowDown" || e.code == "KeyS"){
         movePacman.updateDirection("D");
     }
+    else if(e.code == "ArrowLeft" || e.code == "KeyA") {
+        
+    }
 }
 
 
