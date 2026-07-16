@@ -227,6 +227,9 @@ TIME TO READ SOME DOCUMENTATION GNG CUZ I CANT UNDERSTAND SH..
 At this point i dont even know tf am I writing .. BRUHHHH
 <img width="305" height="56" alt="image" src="https://github.com/user-attachments/assets/548a2200-deb2-4c41-9771-408b25ece1f7" />
 <br>
+This single small ahh K was gonna ruin my code.. You need to precisly say this KeyW for the W key and ArrowUp for the upper arrow..Ts was about to rage bait me gng but I survived YAYAYA...
+<img width="205" height="84" alt="image" src="https://github.com/user-attachments/assets/87450206-7870-41c6-8372-5249676ec520" />
+<br>
 
 
 
