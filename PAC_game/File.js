@@ -339,7 +339,16 @@ function colloision(a, b){
             a.y + a.height > b.y;
 }
 
+//Function for resetting the positons for the pacman and the ghosts..
+function resetPositions() {
+    //Pacman reset config....
+    pacman.reset();
+    pacman.velocityX = 0;
+    pacman.VelocityY = 0;
 
+    
+
+}
 
 
 
