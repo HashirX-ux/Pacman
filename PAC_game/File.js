@@ -346,7 +346,13 @@ function resetPositions() {
     pacman.velocityX = 0;
     pacman.VelocityY = 0;
 
-    
+    for (let ghost of ghost.values()) {
+         ghost.reset();
+         //Giving each new ghost a new direction after the reset.. 
+          const newDirection = directions(Math.floor(Math.random() * 4));
+          //Updating the direction... 
+          ghost.updateDirection(newDirection);
+    }
 
 }
 
