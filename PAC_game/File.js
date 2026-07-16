@@ -318,7 +318,7 @@ function move() {
         //loadMap reloads the food and resets it to the max amount...
         LoadMap();
         //resetting the positions by calling the reset for the pacman and the ghosts or guy GUYSS
-        resetPositions();// dewwdw
+        resetPositions();
     }
 
 
