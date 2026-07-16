@@ -1,24 +1,9 @@
 body{
-    text-align: center; 
-    /*black blackground color....*/
-    /*Super dark is better than plain dark*/
-    background-color: #050505;
-    /*Drawing 30 x 30 animated grid*/
-    background-image: 
-    linear-gradient(rgba(0, 255, 255, 0.08) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(0, 255, 255, 0.08) 1px, transparent 1px);
-    /*Defining the grid for the board*/
-    background-size: 30px 30px;
-    /*Defining the animation for the grid to load on the map*/
-    animation: scrollGrid 20s linear infinite;
-    margin: 0;
-    /*Pushing the board a little bit down */
-    padding-top: 40px;
-    /*Arcade font style color is better in this case..*/ 
-    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    
 }
 
-/*Definig the animation that makes the grid slied without the end*/
+/*Definig the animation that makes the grid slied without the end */
 @keyframes scrollGrid {
     0% {background-position: 0px 0px;}
     100% {background-position: 30px 30px;}
