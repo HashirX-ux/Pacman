@@ -97,10 +97,11 @@ window.onload = function() {
 
 
 function LoadImages() {
-    // Guys Images 
+    // wall image laod 
     wall_img = new Image();
     wall_img.src = "./wall.png"
-
+    
+    // Guys Images 
     blueGuyImg = new Image();
     blueGuyImg.src= "./blueGhost.png";
 
@@ -189,7 +190,7 @@ function update() {
     if(gameOver) {
         // return once cause we dont call settime out and hence we stop calling the update 
         return;
-    }
+    } 
     move(); 
     draw(); //Time for every cycle --> 50ms move and draw motion.. 
     setTimeout(update, 50); 
