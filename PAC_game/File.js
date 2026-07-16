@@ -312,6 +312,10 @@ function move() {
     }
     foods.delete(foodEaten); 
 
+
+    //Going to the next level after eating all of the food.. 
+
+
 }
     
     //Keyboard control config:  
@@ -329,7 +333,7 @@ function movePacman(e){
     //resetting the score back to zero. 
         score = 0;
     //gameOver bask to the false...
-        gameOver = false; ///d  dfe
+        gameOver = false; 
     //call the update after everything resets to update everything .. HOLY ASIAN GENES ..
         update();
         return;//deed
