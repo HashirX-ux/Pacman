@@ -278,7 +278,9 @@ There is still and that is my pacman stop mid session as I hit any key along the
 The problem is I only want to change the directions If there is not a wall in the way soo.. Check for the colloision and if the colloision happens we take a step back.. 
 <img width="524" height="259" alt="image" src="https://github.com/user-attachments/assets/0b1bc0be-9498-4d0e-a924-9bdb8165ad6e" />
 <br>
-
+Now that we know which wall we are gonna colide into once we find the colloision so we can just call return and its gonna exit the function and I guess thats how it all works gng.. 
+<img width="667" height="345" alt="image" src="https://github.com/user-attachments/assets/06416693-744d-4c39-948a-0782187b9914" />
+<br>
 
 
 
