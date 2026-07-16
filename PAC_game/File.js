@@ -192,9 +192,10 @@ function draw() {
     }
 } 
 
-//Movement handl
+//Movement handling function of the game...
 function move() {
-
+    pacman.x += pacman.velocityX;
+    pacman.y += pacman.velocityY;
 }
 
 
