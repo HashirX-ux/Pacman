@@ -51,13 +51,14 @@ const ghosts = new Set();
 let pacman;
 
 
+
 //Directions list for the movement of the ghosts
 //Up and down and left and right directions...
 //Used later for the direction control... 
 const directions = ['U', 'D', 'L', 'R'];
 let score = 0;
 let lives = 3;
-
+let gameOver = false;
 
 window.onload = function() {
     board = document.getElementById("board");
