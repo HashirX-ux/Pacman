@@ -173,6 +173,8 @@ function update() {
 // FPS config --> 20FPS --> 1000ms / 20 * 50 per px changing frames so its move and draw cycle ..
 // Each px --> 32 x 32 
 function draw() {
+    //clearing the canvas after the draw.. 
+    
     // Defining drawing positions of the board... 
     //setinterval --> Once define  
     context.drawImage(pacman.image, pacman.x, pacman.y, pacman.width, pacman.height);
