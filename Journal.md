@@ -269,6 +269,9 @@ YAYAYAYATYAYAY IT WORKED GNG ...now it moves properly..
 Now there is a problem. My Pacman goes thro thhe walls so I am gonna use a specific formula for the intersection between 2 rectangles.. Evry image --> rectangle so..Now searched the formula and i dont evne know how tf it even works and I am just gonna copy paste that.. idk GNG don't blame me for this.. 2 brain cells cant understant shi..
 <img width="334" height="164" alt="image" src="https://github.com/user-attachments/assets/c997d2c2-5a30-42e5-bc11-98aff88ab5e4" />
 <br>
+So as the pacman hits the walls its gonna "stepback" and then again the function calls.. 
+<img width="521" height="253" alt="image" src="https://github.com/user-attachments/assets/da0ff333-9987-446a-ba17-f220d0ece8b3" />
+<br>
 
 
 
