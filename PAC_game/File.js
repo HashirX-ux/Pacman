@@ -20,32 +20,6 @@ let PacmanLeftimg;
 let PacmanRightimg;
 let wall_img;
 
-window.onload = function() {
-    board = document.getElementById("board");
-    board.height = boardHeight;
-    board.width = boardWidth;
-    context = board.getContext("2d"); // ts mainly is used for drawing on the board...
-
-    LoadImages();
-    LoadMap();
-    // console.log(walls.size);
-    // console.log(foods.size);  
-    // console.log(ghosts.size);
-
-    //Now the actual drawing part and I dont know what heck am I GONNA DOOO GNG
-    //Page Loader so gonna add some direction keys.. 
-    update();      
-    // press on the and let go and key automatically comes back up
-    document.addEventListener("keyup", movePacman);
-
-}
-
-// Tile-Map configurations: 
-// X = wall, O = skip, P = pac man, ' ' = food
-// Ghosts: b = blue, o = orange, p = pink, r = red 
-
-//Modifiable Map.. 
-//I DID'T TYPED THE MAP GNG.. I USED AI FOR THE MAP ONLY !!! 
 const tileMap = [
     "XXXXXXXXXXXXXXXXXXX",
     "X        X        X",
@@ -79,6 +53,35 @@ let pacman;
 
 //Directions list for the movement of the ghosts
 const direction = ('U', 'D', 'L', 'R');
+
+
+window.onload = function() {
+    board = document.getElementById("board");
+    board.height = boardHeight;
+    board.width = boardWidth;
+    context = board.getContext("2d"); // ts mainly is used for drawing on the board...
+
+    LoadImages();
+    LoadMap();
+    // console.log(walls.size);
+    // console.log(foods.size);  
+    // console.log(ghosts.size);
+
+    //Now the actual drawing part and I dont know what heck am I GONNA DOOO GNG
+    //Page Loader so gonna add some direction keys.. 
+    update();      
+    // press on the and let go and key automatically comes back up
+    document.addEventListener("keyup", movePacman);
+
+}
+
+// Tile-Map configurations: 
+// X = wall, O = skip, P = pac man, ' ' = food
+// Ghosts: b = blue, o = orange, p = pink, r = red 
+
+//Modifiable Map.. 
+//I DID'T TYPED THE MAP GNG.. I USED AI FOR THE MAP ONLY !!! 
+
 
 function LoadImages() {
     // Guys Images 
