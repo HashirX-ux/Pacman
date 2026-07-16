@@ -221,6 +221,9 @@ Now we are gonna call the updatedirection function and then update velocity and 
 Gonna call a function called movepacman and its gonnna ge called everytime we press on the ket and LET go ..
 <img width="759" height="96" alt="image" src="https://github.com/user-attachments/assets/0e8bbcf3-2cb4-4e38-adad-7f04ec098cfd" />
 <br>
+TIME TO READ SOME DOCUMENTATION GNG CUZ I CANT UNDERSTAND SH..
+<img width="421" height="150" alt="image" src="https://github.com/user-attachments/assets/5b6d09c6-0825-40f8-acdc-6b73f597534a" />
+<br>
 
 
 
