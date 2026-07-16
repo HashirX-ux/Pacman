@@ -13,7 +13,8 @@ const scorePopups = [];
 
 
 //High-Score for the players.... 
-
+//Searched syntax online cause 2 brain cells can't do more than that..
+let highscore = localStorage.getItem("pacmanHighscore") || 0;
 
 
 //shaking frame after the death....
