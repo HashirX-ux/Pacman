@@ -320,6 +320,10 @@ Now for the x ands y movemetn for the ghosts..
 OBVIOUSLY THIS STUPID "M" i HAD TO WRITE Math intead if math ARE YOU SRS???? 
 <img width="854" height="244" alt="image" src="https://github.com/user-attachments/assets/a9c8aa6e-e826-4d16-8231-7e58971d2dc7" />
 <br>
+They move but the walls for the ghosts are not defined.. 
+<img width="651" height="450" alt="image" src="https://github.com/user-attachments/assets/4aca577f-f951-4e7e-b756-3eaf03b3958b" />
+<br>
+
 
 
 
