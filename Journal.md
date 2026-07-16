@@ -338,7 +338,7 @@ It finally works now gng
 Now I wnna do is make the ghost reverse their turn as soon as the hit the barrier and that gonna change the course..
 <img width="778" height="72" alt="image" src="https://github.com/user-attachments/assets/d0b976cb-b65f-42e3-ba48-1e5a76a6006e" />
 <br>
-
+Now According to my map my ghost get stuck on the row 9 as they collide with the left and right barrier so I gotta fix that... 
 
 
 
