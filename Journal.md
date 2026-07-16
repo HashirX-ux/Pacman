@@ -302,6 +302,7 @@ BRUH I had used different variable name for the image ... TOTDALLY RGAE BAITINGG
 YAYAY NOT IT WORKSSSSSS.. even tho I know nothing about the formula.. :(
 <img width="273" height="423" alt="image" src="https://github.com/user-attachments/assets/5b45b076-3f7f-4347-a7cb-bd3092591c33" />
 <br>
+Now for the ghosts I wanna get them move in a random direction So I am gonna define a list of directions..
 
 
 
