@@ -1,5 +1,11 @@
 body{
-    text-align: center;
+    text-align: center; 
+    /*black blackground color....*/
+    /*Super dark is better than plain dark*/
+    background-color: #050505;
+    color: white;
+    /*Arcade font style color is better in this case..*/ 
+    font-family: "Courier New", Courier, monospace;
 }
 
 #board { 
