@@ -66,7 +66,7 @@ const tileMap = [
     "X                 X",
     "XXXXXXXXXXXXXXXXXXX" 
 ]; 
-// 
+
 
 const walls = new Set(); 
 const foods = new Set();
@@ -200,7 +200,9 @@ class Block {
     this.height = height;
 //Saving starting the X and Y position for the Guys and pacman 
     this.startX = x;
-    this.startY = y;
+    this.startY = y;  
+
+    this.direction = 'R';
    }
 }
 
