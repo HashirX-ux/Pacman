@@ -370,6 +370,7 @@ BRO HOW MANY ARE THERE???
 Gang I forgot my directions is a list not a functions and anow it works perfectly fineee ayayayayayaya... 
 <img width="663" height="702" alt="image" src="https://github.com/user-attachments/assets/eb856efc-6916-476f-96ca-3fb0c786ff94" />
 <br>
+So after I got zero I want to get game over for the text after getting hit form the ghosts.. 
 
 
 
