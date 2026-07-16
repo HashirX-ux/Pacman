@@ -211,6 +211,9 @@ function update() {
 // FPS config --> 20FPS --> 1000ms / 20 * 50 per px changing frames so its move and draw cycle ..
 // Each px --> 32 x 32 
 function draw() {
+    //Shaking the X and the Y frames of the screne after the death..
+    let shakeX = 0;
+    let shakeY = 0;
     
 
     //clearing the canvas after the draw.. 
