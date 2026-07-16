@@ -213,7 +213,7 @@ function move() {
 
 
 
-    //Direction Config for the keys..
+    //Direction Config for the keys...
 function movePacman(e){
     if(e.code == "ArrowUp" || e.code == "KeyW") {
         pacman.updateDirection('U'); 
