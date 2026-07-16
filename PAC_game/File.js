@@ -119,17 +119,19 @@ function LoadImages() {
     orangeGuyImg.src = "./orangeGhost.png" 
 
     // PacMan Images loading 
-    // Pacman left image loadd
+    // Pacman left image loadd..
     PacmanLeftimg = new Image();
     PacmanLeftimg.src = "./pacmanLeft.png"
 
-    //Pacman 
+    //Pacman Right image load..
     PacmanRightimg = new Image();
     PacmanRightimg.src = "./pacmanRight.png"
 
+    //Pacman Up image load..
     PacmanUpimg = new Image();
     PacmanUpimg.src = "./pacmanUp.png"
 
+    //Pacman Down image laod.. 
     PacmanDownimg = new Image();
     PacmanDownimg.src = "./pacmanDown.png"
 }
