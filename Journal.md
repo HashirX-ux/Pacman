@@ -314,8 +314,7 @@ The "4" is cuz I have 4 directions and this is the size of the direction and I w
 NOW I have assigned the ghosts to move in the random direction.. 
 <img width="866" height="217" alt="image" src="https://github.com/user-attachments/assets/16122082-7efc-46ed-9159-3caf60886dc8" />
 <br>
-
-
+Now for the x ands y movemetn for the ghosts.. 
 
 
 
