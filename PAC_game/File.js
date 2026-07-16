@@ -1,5 +1,3 @@
-const { useContext } = require("react");
-
 // Board-size
 let board; 
 const rowCount = 21;
@@ -10,6 +8,10 @@ const boardHeight = rowCount * tileSize;
 let context;
 
 // Additional features.. .
+
+
+
+
 //shaking frame after the death....
 let shakeframes = 0;
 
