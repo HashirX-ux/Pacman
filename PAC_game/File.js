@@ -217,7 +217,10 @@ function draw() {
     //Setting the main pen to red...
     context.fillStyle = "red";
     context.font = "14px sans-serif";
-    
+    if(gameOver) {
+        //Defining the text for the game over and tile size right and tile size down.. 
+        context.fillText("Game Over: " + String(score), tileSize/2, tileSize/2);
+    }
 
 
 } 
