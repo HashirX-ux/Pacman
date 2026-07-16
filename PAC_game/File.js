@@ -320,19 +320,20 @@ function movePacman(e){
     //Gonna reset the game after the user dies 3 time (NOT LITERALLY!)
     //reset game after 3 deaths..
     //resetting the food after the 3 deaths and the game over.. 
-    LoadMap();
+    if (gameOver){
+        LoadMap();
     //reset the positons of the pacman and the ghosts...
-    resetPositions();
+        resetPositions();
     //reset the lives after the game over..
     lives = 3;
     //resetting the score back to zero. 
-    score = 0;
+        score = 0;
     //gameOver bask to the false...
-    gameOver = false;
+        gameOver = false;
     //call the update after everything resets to update everything .. HOLY ASIAN GENES ..
-    update();
-    return;
-
+        update();
+        return;//deed
+    }
     //Upper Key config:
     if(e.code == "ArrowUp" || e.code == "KeyW") {
         pacman.updateDirection('U'); 
