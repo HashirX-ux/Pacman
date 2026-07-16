@@ -325,6 +325,11 @@ function movePacman(e){
     resetPositions();
     //reset the lives after the game over..
     lives = 3;
+    //resetting the score back to zero. 
+    score = 0;
+    //gameOver bask to the false...
+    gameOver = false;
+    //call the update after everything resets to update everything .. HOLY ASIAN GENES ..
 
     //Upper Key config:
     if(e.code == "ArrowUp" || e.code == "KeyW") {
