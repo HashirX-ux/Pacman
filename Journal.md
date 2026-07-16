@@ -272,6 +272,9 @@ Now there is a problem. My Pacman goes thro thhe walls so I am gonna use a speci
 So as the pacman hits the walls its gonna "stepback" and then again the function calls.. 
 <img width="521" height="253" alt="image" src="https://github.com/user-attachments/assets/da0ff333-9987-446a-ba17-f220d0ece8b3" />
 <br>
+There is still and that is my pacman stop mid session as I hit any key along the barrier.. 
+<img width="605" height="405" alt="image" src="https://github.com/user-attachments/assets/93cf3c27-e0c4-4022-bc58-0641f4d422cd" />
+<br>
 
 
 
