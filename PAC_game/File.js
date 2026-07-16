@@ -1,3 +1,5 @@
+const { useContext } = require("react");
+
 // Board-size
 let board; 
 const rowCount = 21;
@@ -259,8 +261,7 @@ function draw() {
 
 
     //restore for the default positions of the shaking X and Y directions..
-    
-
+    context.restore();
 } 
 
 //Movement handling function of the game...
