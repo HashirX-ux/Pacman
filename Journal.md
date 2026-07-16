@@ -332,6 +332,9 @@ Now after the colloision its gonna take a step back but but the issue is its gon
 I am pretty sure I am about to pass out now.. 
 <img width="818" height="206" alt="image" src="https://github.com/user-attachments/assets/81ba4e74-b2a0-4aa0-98d6-034218dcfaae" />
 <br>
+It finally works now gng 
+<img width="639" height="660" alt="image" src="https://github.com/user-attachments/assets/21544182-a6a5-451b-b2f1-6ec47ca4446b" />
+<br>
 
 
 
