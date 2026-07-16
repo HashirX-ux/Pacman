@@ -203,6 +203,7 @@ class Block {
     this.startY = y;  
     
     this.direction = 'R';
+    // No chnage in the position in current time 
     this.velocityX = 0;
     this.velocityY = 0;
    }
