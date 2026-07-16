@@ -269,6 +269,7 @@ class Block {
         // Iterating thro the set of walls... 
         for(let wall of walls.values()) {
             if(colloision(this, wall)) {
+                //Direction Variations for the GNG :D
                 this.x -= velocityX;
                 this.y -= velocityY; 
                 this.direction = prevDirection; 
