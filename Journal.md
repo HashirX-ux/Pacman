@@ -293,6 +293,9 @@ IT WORKS AND IF YOUR CODE WORKS DONT'T TOUCH ITTTTTTT
 Now I need to update my pacman to face the direction its movin in gng .. 
 <img width="456" height="124" alt="image" src="https://github.com/user-attachments/assets/f3c16f04-d8f4-42a1-be19-b29f275703e2" />
 <br>
+And Obviously I messed it up again.. 
+<img width="1280" height="975" alt="image" src="https://github.com/user-attachments/assets/8278f852-d0da-4c47-97a0-4664b27d8bab" />
+<br>
 
 
 
