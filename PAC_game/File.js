@@ -241,6 +241,9 @@ function movePacman(e){
         //Left Image for the pacman... 
         pacman.image = pacmanLeftImage;
     }
+    else if(pacman.direction == 'R') {
+        
+    }
 }
 
 //Colloision systen of the walls.... 
