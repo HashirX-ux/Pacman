@@ -36,7 +36,7 @@ window.onload = function() {
     //Page Loader so gonna add some direction keys.. 
     update();      
     // press on the and let go and key automatically comes back up
-    document.addEventListener("keyup") 
+    document.addEventListener("keyup", movePacman);
 
 }
 
@@ -192,6 +192,8 @@ function draw() {
     }
 
 } 
+
+
 
 
 class Block {
