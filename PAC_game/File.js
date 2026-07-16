@@ -249,6 +249,7 @@ function movePacman(e){
 
 //Colloision systen of the walls.... 
 function colloision(a, b){
+    //formula for the colloision system.. 
     return  a.x < b.x + b.width && 
             a.x + a.width > b.x &&
             a.y < b.y + b.height && 
