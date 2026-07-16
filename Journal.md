@@ -266,6 +266,7 @@ So Everytime I am gonna cal the draw I need to clear the canvas So I am gonna cr
 YAYAYAYATYAYAY IT WORKED GNG ...now it moves properly..
 <img width="371" height="176" alt="image" src="https://github.com/user-attachments/assets/049b9186-7c82-4da9-a971-8bb88e81f127" />
 <br>
+Now there is a problem. My Pacman goes thro thhe walls so I am gonna use a specific formula for the intersection between 2 rectangles.. Evry image --> rectangle so.. LETS CODE IT GNG AHHHH
 
 
 
