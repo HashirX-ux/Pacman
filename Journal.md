@@ -263,7 +263,11 @@ Ok gng we have gotten somewhere atleast.. it looks ugly af..
 So Everytime I am gonna cal the draw I need to clear the canvas So I am gonna create some function for that.. 
 <img width="734" height="73" alt="image" src="https://github.com/user-attachments/assets/05093148-a3c4-4234-b4f5-7c1bd0e0af8a" />
 <br>
+YAYAYAYATYAYAY IT WORKED GNG ...now it moves properly..
+<img width="371" height="176" alt="image" src="https://github.com/user-attachments/assets/049b9186-7c82-4da9-a971-8bb88e81f127" />
 <br>
+
+
 
 
 
