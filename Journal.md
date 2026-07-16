@@ -305,7 +305,7 @@ YAYAY NOT IT WORKSSSSSS.. even tho I know nothing about the formula.. :(
 Now for the ghosts I wanna get them move in a random direction So I am gonna define a list of directions..and I accidently put my variables down but i want to put them after variables so lets fiiixxxx thth...and here we have the direction list.. 
 <img width="687" height="108" alt="image" src="https://github.com/user-attachments/assets/41435a69-0b0e-4a24-aa8e-0ad14699dd91" />
 <br>
-
+Now I am gonna assign each ghost a random direction.. 
 
 
 
