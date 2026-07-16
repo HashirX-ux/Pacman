@@ -214,6 +214,11 @@ class Block {
         this.updateVelocity();
    } 
 
+   //updating the velocity....
+   updateVelocity() {
+    
+   }
+
 
 }
 
