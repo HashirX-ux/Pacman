@@ -204,6 +204,8 @@ Now I am gonna create another function which is gonna update the direction and i
 Now I am gonn aput the direction in the update direction function.. 
 <img width="557" height="181" alt="image" src="https://github.com/user-attachments/assets/ea0a9419-5f0e-4c4f-bf23-e7f2b618dcd1" />
 <br>
-
+Math has stopped mathing gng.. .:((((
+<img width="449" height="165" alt="image" src="https://github.com/user-attachments/assets/e7e89bd9-742d-48ce-830b-64af91563321" />
+<br>
 
 
