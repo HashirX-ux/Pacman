@@ -296,6 +296,9 @@ Now I need to update my pacman to face the direction its movin in gng ..
 And Obviously I messed it up again.. 
 <img width="1280" height="975" alt="image" src="https://github.com/user-attachments/assets/8278f852-d0da-4c47-97a0-4664b27d8bab" />
 <br>
+BRUH I had used different variable name for the image ... TOTDALLY RGAE BAITINGGGG
+<img width="311" height="189" alt="image" src="https://github.com/user-attachments/assets/8d10acd8-7267-4ea4-8fe1-5ac4fc1848db" />
+<br>
 
 
 
