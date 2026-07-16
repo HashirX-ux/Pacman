@@ -53,6 +53,7 @@ let pacman;
 
 //Directions list for the movement of the ghosts
 //Up and down and left and right directions...
+//Used later for the direction control
 const directions = ['U', 'D', 'L', 'R'];
 
 
@@ -240,7 +241,7 @@ function move() {
                 
                 //colloision system for the ghosts..
                 //Changing the directions for the ghosts everytime they colloide
-                const newDirection  = directions(Math.floor(Math.random()* 4))
+                const newDirection  = directions[Math.floor(Math.random()* 4)]
                 //Updating the new direction.. 
                 ghost.updateDirection(newDirection);
             }
@@ -316,7 +317,7 @@ class Block {
      updateDirection(direction) {
         //Saving the previous direction.... 
         const prevDirection = this.direction; 
-        this.direction = direction;
+        this.direction = direction;// efwf fw wfw
         this.updateVelocity();
         //Check for the colloision and if the colloision happens we take a step back
         this.x += this.velocityX;
