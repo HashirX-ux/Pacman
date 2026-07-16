@@ -252,7 +252,7 @@ function draw() {
     }
 
     // context shadow blue resetting.. 
-    context
+    context.shadowBlur = 0;
 
     //Specifying the color for the rectangle:
     context.fillStyle = "red";
