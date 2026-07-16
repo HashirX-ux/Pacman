@@ -218,8 +218,8 @@ function draw() {
     //formula to shake the screen in equal time frame for both X and Y positions..
     if(shakeframes > 0) {
         //shaking the x frame after the death..
-        shakeX = (Math.random() - 0.5 * 8); //Calculated using the Ai.. Sry gng my math and engl1sh tooo bad :(
-        shakeY = (Math.random() - 0.5 * 8);
+        shakeX = (Math.random() - 0.5) * 8; //Calculated using the Ai.. Sry gng my math and engl1sh tooo bad :(
+        shakeY = (Math.random() - 0.5) * 8;
         shakeframes--;
     }
     context.save();
@@ -257,6 +257,9 @@ function draw() {
         context.fillText("x" + String(lives) + ' ' + String(score), tileSize/2, tileSize/2);
     }
 
+
+    //restore for the default positions of the shaking X and Y directions..
+    
 
 } 
 
