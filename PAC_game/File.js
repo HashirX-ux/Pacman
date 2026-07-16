@@ -258,6 +258,10 @@ function move() {
     }
 
     //Check the colloisions with the food 
+    let foodEaten = null;
+    for(let food of food.values()) {
+        
+    }
 
 }
 
