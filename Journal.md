@@ -230,7 +230,9 @@ At this point i dont even know tf am I writing .. BRUHHHH
 This single small ahh K was gonna ruin my code.. You need to precisly say this KeyW for the W key and ArrowUp for the upper arrow..Ts was about to rage bait me gng but I survived YAYAYA...
 <img width="205" height="84" alt="image" src="https://github.com/user-attachments/assets/87450206-7870-41c6-8372-5249676ec520" />
 <br>
-
+Direction control for the keys gng... So far so good.. just specifying the directions ... 
+<img width="721" height="145" alt="image" src="https://github.com/user-attachments/assets/76a20315-349d-4731-9ff8-937fc2d73780" />
+<br>
 
 
 
