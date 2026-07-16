@@ -311,7 +311,9 @@ Now I am gonna assign each ghost a random direction.. So i googled this function
 The "4" is cuz I have 4 directions and this is the size of the direction and I wanted to get rid of the decimal points so I used floor whcih we use to round down and its pretty simple.. 
 <img width="920" height="171" alt="image" src="https://github.com/user-attachments/assets/d43d0788-702b-46e3-91b7-f3c1f9d9e568" />
 <br>
-
+NOW I have assigned the ghosts to move in the random direction.. 
+<img width="866" height="217" alt="image" src="https://github.com/user-attachments/assets/16122082-7efc-46ed-9159-3caf60886dc8" />
+<br>
 
 
 
