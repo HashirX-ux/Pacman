@@ -221,7 +221,7 @@ class Block {
    //updating the velocity....
    updateVelocity() {
     if(this.direction == 'U') {
-        this.velictyX = 0; //Since not moving in x direction 
+        this.velocityX = 0; //Since not moving in x direction 
         this.velocityY = -tileSize/4;
     }
     else if(this.direction == 'D'){
