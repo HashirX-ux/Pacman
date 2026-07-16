@@ -55,6 +55,8 @@ let pacman;
 //Up and down and left and right directions...
 //Used later for the direction control... 
 const directions = ['U', 'D', 'L', 'R'];
+let score = 0;
+let lives = 3;
 
 
 window.onload = function() {
@@ -229,7 +231,7 @@ function move() {
     for(let ghost of ghosts.values()) {
         //Error config for the 9th row if they get stuck..Force em out.. 
         if(ghost.y == tileSize * 9 && ghost.direction != 'U' && ghost.direction != 'D') {
-            ghost.updateDirection('U');  //For the upper motion of the ghosts..
+            ghost.updateDirection('U');  //For the upper motion of the ghosts..:D
         }
 
 
