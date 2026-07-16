@@ -174,7 +174,7 @@ function update() {
 // Each px --> 32 x 32 
 function draw() {
     //clearing the canvas after the draw.. 
-    context.clearRect()
+    context.clearRect(0, 0, board.width, board.height);
     // Defining drawing positions of the board... 
     //setinterval --> Once define  
     context.drawImage(pacman.image, pacman.x, pacman.y, pacman.width, pacman.height);
