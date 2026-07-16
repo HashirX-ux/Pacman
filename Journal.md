@@ -324,6 +324,8 @@ They move but the walls for the ghosts are not defined..
 <img width="651" height="450" alt="image" src="https://github.com/user-attachments/assets/4aca577f-f951-4e7e-b756-3eaf03b3958b" />
 <br>
 Now I am gonna check for the wall colloisions for the ghosts .. 
+<img width="604" height="261" alt="image" src="https://github.com/user-attachments/assets/532cb4d8-9fe0-4d81-a845-5c44b91c7c23" />
+<br>
 
 
 
