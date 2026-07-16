@@ -261,6 +261,10 @@ Ok gng we have gotten somewhere atleast.. it looks ugly af..
 <img width="576" height="604" alt="image" src="https://github.com/user-attachments/assets/cc6109bc-2488-4330-8461-9d711b63218b" />
 <br>
 So Everytime I am gonna cal the draw I need to clear the canvas So I am gonna create some function for that.. 
+<img width="734" height="73" alt="image" src="https://github.com/user-attachments/assets/05093148-a3c4-4234-b4f5-7c1bd0e0af8a" />
+<br>
+<br>
+
 
 
 
