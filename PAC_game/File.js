@@ -246,7 +246,11 @@ function move() {
     for(let ghost of ghosts.values()) {
 
         //Check the colooision of the ghost and the pacman 
+        if(colloision(ghost, pacman)) {
+            //lives
+            lives -= 1;
 
+        }
 
         //Error config for the 9th row if they get stuck..Force em out.. 
         if(ghost.y == tileSize * 9 && ghost.direction != 'U' && ghost.direction != 'D') {
