@@ -236,7 +236,9 @@ Direction control for the keys gng... So far so good.. just specifying the direc
 The key singls for the game control by the keyboard is done gng.. Looks good to me.. 
 <img width="726" height="407" alt="image" src="https://github.com/user-attachments/assets/4d1fd5b9-7c94-41d6-8a10-360a82befe4b" />
 <br>
-Now we need to update the x and y position and in order to do so in a function called move.. 
+Now we need to update the x and y position and in order to do so in a function called move.. So this single function is gonna handle ALL the movement in my game.. Cuz I cant do math for more ones gng.. faaahhh!!
+<img width="252" height="128" alt="image" src="https://github.com/user-attachments/assets/0cd23364-829e-44a8-9d8f-dfec452bac5a" />
+<br>
 
 
 
