@@ -201,7 +201,12 @@ function move() {
     
     //Checking the wall colloisions.. 
     for(let wall of walls.values()) {
-        
+        if(colloision(pacman, wall)) {
+            //pacman stepping back.. 
+            pacman.x -= pacman.velocityX;
+            pacman.y -= pacman.velocityY;
+            break;
+        }
     }
 
 }
