@@ -341,6 +341,8 @@ Now I wnna do is make the ghost reverse their turn as soon as the hit the barrie
 Now According to my map my ghost get stuck on the row 9 as they collide with the left and right barrier so I gotta fix that...I am gonna add another check to see if the ghost is in 9th row and if it is I am gonna force it out of it by going up..
 <img width="1064" height="167" alt="image" src="https://github.com/user-attachments/assets/3c470875-515c-4303-a21a-83d46c44ea08" />
 <br>
+<img width="516" height="86" alt="image" src="https://github.com/user-attachments/assets/e4a3155c-4fc9-4b99-9fe6-f9c34821591a" />
+<br>
 
 
 
