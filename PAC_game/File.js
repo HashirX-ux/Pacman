@@ -270,6 +270,12 @@ function draw() {
         const p = socrePopups[i];
         //Refering the pop up after the death of the pacman...
         context.fillText("+10", p.x, p.y);
+        // floating upword for the count.. 
+        p.y -= 0.5;
+        //count down instead of the fading the pixels..
+        p.timer -= 1;
+        
+
     }
 
 
