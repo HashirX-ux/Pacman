@@ -227,6 +227,10 @@ function move() {
     }
     
     for(let ghost of ghosts.values()) {
+
+        
+
+
          ghost.x += ghost.velocityX;
          ghost.y += ghost.velocityY;
          
@@ -235,8 +239,8 @@ function move() {
             if(colloision(ghost, wall) || ghost.x <= 0 || ghost.x + ghost.width >= boardWidth) {
                 // for the x colloisions ..
                 ghost.x -= ghost.velocityX;
-                // for the y colloisions.. 
-                ghost.y -= ghost.velocityY; //
+                // for the y colloisions..
+                ghost.y -= ghost.velocityY; 
                 
 
                 //colloision system for the ghosts..
