@@ -212,7 +212,7 @@ function move() {
 }
 
     
-    //Keyboard control config: 
+    //Keyboard control config:  
     //Direction Config for the keys...
 function movePacman(e){
     if(e.code == "ArrowUp" || e.code == "KeyW") {
@@ -258,6 +258,8 @@ class Block {
    
    // updating the direction.... 
      updateDirection(direction) {
+        //Saving the previous direction.... 
+        const prevDirection = this.direction; 
         this.direction = direction;
         this.updateVelocity();
    } 
