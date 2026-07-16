@@ -238,7 +238,8 @@ function movePacman(e){
         pacman.image = pacmanDownImage;
     }
     else if(pacman.direction == 'L') {
-        
+        //Left Image for the pacman... 
+        pacman.image = pacmanLeftImage;
     }
 }
 
