@@ -73,7 +73,7 @@ window.onload = function() {
     //getting a random direction for the ghosts 
     for(let ghost of ghosts.values()){
         //4 cuz we have 4 directions DUHH .. 
-        const newDirection = directions[math.floor(math.random() * 4)];
+        const newDirection = directions[Math.floor(Math.random() * 4)];
         //Movewment for the randoom movement for the ghosts 
         ghost.updateDirection(newDirection);
     }   
@@ -83,7 +83,7 @@ window.onload = function() {
     document.addEventListener("keyup", movePacman);
 
 }
-
+    
 // Tile-Map configurations: 
 // X = wall, O = skip, P = pac man, ' ' = food
 // Ghosts: b = blue, o = orange, p = pink, r = red 
@@ -228,6 +228,9 @@ function move() {
     for(let ghost of ghosts.values()) {
          ghost.x += ghost.velocityX;
          ghost.y += ghost.velocityY;
+         
+         //Defining the wall colloisions for the ghosts.. 
+         for
     }
 
 }
