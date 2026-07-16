@@ -315,6 +315,8 @@ NOW I have assigned the ghosts to move in the random direction..
 <img width="866" height="217" alt="image" src="https://github.com/user-attachments/assets/16122082-7efc-46ed-9159-3caf60886dc8" />
 <br>
 Now for the x ands y movemetn for the ghosts.. 
+<img width="725" height="252" alt="image" src="https://github.com/user-attachments/assets/54cfcc8e-ec5c-4343-9344-dd9b61895f97" />
+<br>
 
 
 
