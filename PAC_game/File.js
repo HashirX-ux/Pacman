@@ -286,7 +286,10 @@ function draw() {
         //Refering the pop up after the death of the pacman...
         context.fillText("+10", p.x, p.y);
         //Highscore color after it is reached.. 
-        context.fillStyle()
+        context.fillStyle = "red";
+        context.font = "14px sans-serif"; // No idea what it even means bruh..
+        //Changing the text color.. 
+        context.fillText("High: " + String(highscore), tileSize/2, tileSize/1.5);
         // floating upword for the count.. 
         p.y -= 0.5;
         //count down instead of the fading the pixels..
