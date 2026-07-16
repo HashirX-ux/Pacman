@@ -367,6 +367,9 @@ Gang I am gonna chke my self fr.. I am doing these really stupid mistakes gng ..
 BRO HOW MANY ARE THERE??? 
 <img width="899" height="262" alt="image" src="https://github.com/user-attachments/assets/5d2bdb46-d4c3-4d7a-bed1-638d9c72bb77" />
 <br>
+Gang I forgot my directions is a list not a functions and anow it works perfectly fineee ayayayayayaya... 
+<img width="663" height="702" alt="image" src="https://github.com/user-attachments/assets/eb856efc-6916-476f-96ca-3fb0c786ff94" />
+<br>
 
 
 
