@@ -317,6 +317,9 @@ NOW I have assigned the ghosts to move in the random direction..
 Now for the x ands y movemetn for the ghosts.. 
 <img width="725" height="252" alt="image" src="https://github.com/user-attachments/assets/54cfcc8e-ec5c-4343-9344-dd9b61895f97" />
 <br>
+OBVIOUSLY THIS STUPID "M" i HAD TO WRITE Math intead if math ARE YOU SRS???? 
+<img width="854" height="244" alt="image" src="https://github.com/user-attachments/assets/a9c8aa6e-e826-4d16-8231-7e58971d2dc7" />
+<br>
 
 
 
