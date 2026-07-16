@@ -18,7 +18,11 @@ body{
     font-family: "Courier New", Courier, monospace;
 }
 
-/*Definig the animation*/
+/*Definig the animation that makes the grid slied without the end*/
+@keyframes scrollGrid {
+    0% {background-position: 0px 0px;}
+    100% {background-position: 30px 30px;}
+}
 
 #board { 
     background-color: black;
