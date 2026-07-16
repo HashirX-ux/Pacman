@@ -271,7 +271,8 @@ class Block {
             if(colloision(this, wall)) {
                 this.x -= velocityX;
                 this.y -= velocityY; 
-                
+                this.direction = prevDirection; 
+                this.updateVelocity();
             }
         }
    } 
