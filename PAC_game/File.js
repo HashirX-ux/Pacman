@@ -227,8 +227,10 @@ function move() {
     }
     
     for(let ghost of ghosts.values()) {
-
-        
+        //Error config for the 9th row if they get stuck..Force em out.. 
+        if(ghost.y == tileSize * 9 && ghost.direction != 'U' && ghost.direction != 'D') {
+            ghost.updateDirection('U');  
+        }
 
 
          ghost.x += ghost.velocityX;
