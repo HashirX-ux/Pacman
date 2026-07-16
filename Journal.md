@@ -284,6 +284,9 @@ Now that we know which wall we are gonna colide into once we find the colloision
 HOLYY SHEEEEEESH AM I COOCKED??
 <img width="894" height="782" alt="image" src="https://github.com/user-attachments/assets/cdea033e-5c8e-411d-aedf-a6081a205986" />
 <br>
+So I just forgot to add "this" before velocity and ts just sooo annoyingggg
+<img width="373" height="104" alt="image" src="https://github.com/user-attachments/assets/bb1ef039-640e-40f7-814d-5654127fcc6b" />
+<br>
 
 
 
