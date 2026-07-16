@@ -335,6 +335,7 @@ I am pretty sure I am about to pass out now..
 It finally works now gng 
 <img width="639" height="660" alt="image" src="https://github.com/user-attachments/assets/21544182-a6a5-451b-b2f1-6ec47ca4446b" />
 <br>
+Now I wnna do is make the ghost reverse their turn as soon as the hit the barrier and that gonna change the course..
 
 
 
