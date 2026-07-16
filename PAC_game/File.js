@@ -188,7 +188,7 @@ function draw() {
     }
     //Specifying the color for the rectangle:
     context.fillStyle = "red";
-    //Iterating tho the set.. 
+    //Iterating tho the set..  
     for(let food of foods.values()) {
         context.fillRect(food.x, food.y, food.width, food.height);
     }
