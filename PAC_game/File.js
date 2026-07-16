@@ -404,7 +404,7 @@ class Block {
    }
 
 
-   // 
+   // Adding a reset function for resetting the positions for the pacman and the ghosts...
 
 
 }
