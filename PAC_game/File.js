@@ -232,6 +232,12 @@ function movePacman(e){
     if(pacman.direction == 'U') {
         //Upper Image for the pacman...
         pacman.image = pacmanUpImage;
+    }
+    else if(pacman.direction == 'D'){
+        //Down Image for the pacman....
+        pacman.image = pacmanDownImage;
+    }
+    else if(pacman.direction == 'L') {
         
     }
 }
