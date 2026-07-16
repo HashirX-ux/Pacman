@@ -8,11 +8,17 @@ body{
     linear-gradient(rgba(0, 255, 255, 0.08) 1px, transparent 1px),
     linear-gradient(90deg, rgba(0, 255, 255, 0.08) 1px, transparent 1px);
     /*Defining the grid for the board*/
-    
-    color: white;
+    background-size: 30px 30px;
+    /*Defining the animation for the grid to load on the map*/
+    animation: scrollGrid 20s linear infinite;
+    margin: 0;
+    /*Pushing the board a little bit down */
+    padding-top: 40px;
     /*Arcade font style color is better in this case..*/ 
     font-family: "Courier New", Courier, monospace;
 }
+
+/*Definig the animation*/
 
 #board { 
     background-color: black;
