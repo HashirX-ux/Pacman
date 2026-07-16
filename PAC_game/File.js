@@ -249,9 +249,9 @@ function move() {
         if(colloision(ghost, pacman)) {
             //lives Counting for the pacman..
             lives -= 1;
-            //Resetting the positions of the pacman and the ghosts after the colloision..
+            //Function for Resetting the positions of the pacman and the ghosts after the colloision..
             resetPositions();
-
+            
         }
 
         //Error config for the 9th row if they get stuck..Force em out.. 
