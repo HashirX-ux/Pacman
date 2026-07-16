@@ -102,25 +102,28 @@ function LoadImages() {
     wall_img.src = "./wall.png"
     
     //Guys Images 
-    //Blue guy image load 
+    //Blue guy image load ..
     blueGuyImg = new Image();
     blueGuyImg.src= "./blueGhost.png";
 
-    //Red Guy image load 
+    //Red Guy image load ..
     redGuyImg = new Image();
     redGuyImg.src= "./redGhost.png"
 
-    
+    //Pink Guy image load..
     pinkGuyImg = new Image();
     pinkGuyImg.src = "./pinkGhost.png"
 
+    //orange guy image load.. 
     orangeGuyImg = new Image();
     orangeGuyImg.src = "./orangeGhost.png" 
 
-    // PacMan Images 
+    // PacMan Images loading 
+    // Pacman left image loadd
     PacmanLeftimg = new Image();
     PacmanLeftimg.src = "./pacmanLeft.png"
 
+    //Pacman 
     PacmanRightimg = new Image();
     PacmanRightimg.src = "./pacmanRight.png"
 
