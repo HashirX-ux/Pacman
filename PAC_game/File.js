@@ -193,7 +193,11 @@ function draw() {
 
 } 
 
+function movePacman(){
+    if(e.code == "ArrowUp" || e.code == "keyW") {//sm
 
+    }
+}
 
 
 class Block {
