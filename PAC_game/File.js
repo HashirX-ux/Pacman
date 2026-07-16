@@ -227,7 +227,11 @@ function movePacman(e){
     else if(e.code == "ArrowRight" || e.code == "KeyD") {
         pacman.updateDirection('R');    
     }
-    
+
+    //Updating the image of the pacman in accordance to the direction its moving in..
+    if(pacman.direction == 'U') {
+        
+    }
 }
 
 //Colloision systen of the walls.... 
@@ -270,8 +274,8 @@ class Block {
         for(let wall of walls.values()) {
             if(colloision(this, wall)) {
                 //Direction Variations for the GNG :D
-                this.x -= velocityX;
-                this.y -= velocityY; 
+                this.x -= this.velocityX;
+                this.y -= this.velocityY; 
                 this.direction = prevDirection; 
                 this.updateVelocity();
                 //We don't need to chk cause we know which wall we are gonna collidde
