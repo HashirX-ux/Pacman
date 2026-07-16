@@ -230,6 +230,7 @@ function movePacman(e){
 
     //Updating the image of the pacman in accordance to the direction its moving in..
     if(pacman.direction == 'U') {
+        pacman.image = pacmanUpImage;
         
     }
 }
