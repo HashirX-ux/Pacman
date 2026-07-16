@@ -274,7 +274,10 @@ function draw() {
         p.y -= 0.5;
         //count down instead of the fading the pixels..
         p.timer -= 1;
-        
+        if(p.timer <= 0) {
+            //Didn't knew this splice method had existed.. I found it after googling it duhh
+            scorePopups.splice(i, 1);
+        }
 
     }
 
