@@ -267,7 +267,8 @@ YAYAYAYATYAYAY IT WORKED GNG ...now it moves properly..
 <img width="371" height="176" alt="image" src="https://github.com/user-attachments/assets/049b9186-7c82-4da9-a971-8bb88e81f127" />
 <br>
 Now there is a problem. My Pacman goes thro thhe walls so I am gonna use a specific formula for the intersection between 2 rectangles.. Evry image --> rectangle so..Now searched the formula and i dont evne know how tf it even works and I am just gonna copy paste that.. idk GNG don't blame me for this.. 2 brain cells cant understant shi..
-
+<img width="334" height="164" alt="image" src="https://github.com/user-attachments/assets/c997d2c2-5a30-42e5-bc11-98aff88ab5e4" />
+<br>
 
 
 
