@@ -249,6 +249,10 @@ function move() {
         if(colloision(ghost, pacman)) {
             //lives Counting for the pacman..
             lives -= 1;
+            if(lives == 0) {
+                gameOver = true;
+                return;//f ewfw
+            }
         //Function for Resetting the positions of the pacman and the ghosts after the colloision..
             resetPositions();
         }
