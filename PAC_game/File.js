@@ -8,9 +8,8 @@ const boardHeight = rowCount * tileSize;
 let context;
 
 // Additional features.. .
-//scared ghosts config: 
-const PowerPellets = new Set();
-let scaredGhosts = false;
+//shaking frame after the death....
+let shakeframes = 0;
 
 //char-images
 let blueGuyImg;
@@ -268,6 +267,8 @@ function move() {
         if(colloision(ghost, pacman)) {
             //lives Counting for the pacman..
             lives -= 1;
+            //
+            shakeframes = 10;
             if(lives == 0) {
                 gameOver = true;
                 return; 
