@@ -347,5 +347,6 @@ Now I gotta handle the colloisions between the pacman and the ghost So I need to
 <img width="572" height="164" alt="image" src="https://github.com/user-attachments/assets/05b50d3f-d08c-48d5-87a3-da97a8006c34" />
 <br
 So we iterate thro the food and if there is a colloision we eat the food and we will gain 10 points.. and to remove the food after we ahve eaten it we wil do food eaten.. 
-
+<img width="761" height="343" alt="image" src="https://github.com/user-attachments/assets/7b446c6c-26ad-42e1-a754-f7a1e91715d9" />
+<br>
 
