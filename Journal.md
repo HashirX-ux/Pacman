@@ -352,5 +352,7 @@ So we iterate thro the food and if there is a colloision we eat the food and we 
 Now I am gonna set pen to red.. 
 <img width="51" height="17" alt="image" src="https://github.com/user-attachments/assets/7dd12e4a-e0f6-49b6-b58d-c423efa60940" />
 <br>
-
+Guess it worked gng.. 
+<img width="623" height="269" alt="image" src="https://github.com/user-attachments/assets/e2ee1ff0-fc94-4331-ac23-0cbc1642ec76" />
+<br>
 
