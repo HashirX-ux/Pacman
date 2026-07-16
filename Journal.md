@@ -210,6 +210,9 @@ Math has stopped mathing gng.. .:((((
 Direction control is really easy and its just simple maths.. I am just gonna specify the pacman direction by the up, down left and right keys so that would be easy to understand and play :D
 <img width="807" height="390" alt="image" src="https://github.com/user-attachments/assets/a813c5d5-899b-49d2-814d-7b2301917938" />
 <br>
+So Far so good gng ..
+<img width="753" height="275" alt="image" src="https://github.com/user-attachments/assets/6bb4cd30-f50b-4d6a-8164-6d6f3aaabbc5" />
+<br<
 
 
 
