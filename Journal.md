@@ -308,6 +308,7 @@ Now for the ghosts I wanna get them move in a random direction So I am gonna def
 Now I am gonna assign each ghost a random direction.. So i googled this function called "floor"
 <img width="324" height="67" alt="image" src="https://github.com/user-attachments/assets/d5f3e690-cce1-44b6-80d9-6f9758b19197" />
 <br>
+The "4" is cuz I have 4 directions and this is the size of the direction and I wanted to get rid of the decimal points so I used floor whcih we use to round down and its pretty simple.. 
 
 
 
