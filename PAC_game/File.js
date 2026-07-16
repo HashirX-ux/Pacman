@@ -293,7 +293,6 @@ function move() {
     foods.delete(foodEaten); 
 
 }
-
     
     //Keyboard control config:  
     //Direction Config for the keys...
@@ -391,8 +390,7 @@ class Block {
                 this.y -= this.velocityY; 
                 this.direction = prevDirection; 
                 this.updateVelocity();
-                //We don't need to chk cause we know which wall we are gonna collidde
-                
+                //We don't need to chk cause we know which wall we are gonna collidde 
             }
         }
    } 
