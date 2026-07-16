@@ -214,7 +214,13 @@ function draw() {
     //Shaking the X and the Y frames of the screne after the death..
     let shakeX = 0;
     let shakeY = 0;
-    
+    //
+    if(shakeframes > 0) {
+        //shaking the x frame after the death..
+        shakeX = (Math.random() - 0.5 * 8); //Calculated using the Ai.. Sry gng my math and engl1sh tooo bad :(
+        shakeY = (Math.random() - 0.5 * 8);
+        shakeframes--;
+    }
 
     //clearing the canvas after the draw.. 
     context.clearRect(0, 0, board.width, board.height); 
