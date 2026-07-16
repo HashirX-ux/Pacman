@@ -7,9 +7,10 @@ const boardWidth = colCount * tileSize;
 const boardHeight = rowCount * tileSize;
 let context;
 
-
+// Additional features.. .
 //scared ghosts config: 
-
+const PowerPellets = new Set();
+let scaredGhosts = false;
 
 //char-images
 let blueGuyImg;
