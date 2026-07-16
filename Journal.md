@@ -373,7 +373,8 @@ Gang I forgot my directions is a list not a functions and anow it works perfectl
 So after I got zero I want to get game over for the text after getting hit form the ghosts.. 
 <img width="592" height="239" alt="image" src="https://github.com/user-attachments/assets/d19257f9-319f-427e-90b3-7ad28b115bde" />
 <br>
-Now After the count of 3 I wanna reset the game so I am gonna do that ...
+Now After the count of 3 I wanna reset the game so I am gonna do that ...Also if the player somehow eats all the food then I have to increase the level so .. 
+
 
 
 
