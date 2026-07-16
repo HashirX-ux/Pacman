@@ -355,7 +355,6 @@ Now I am gonna set pen to red..
 Guess it worked gng.. 
 <img width="623" height="269" alt="image" src="https://github.com/user-attachments/assets/e2ee1ff0-fc94-4331-ac23-0cbc1642ec76" />
 <br>
-The next thing I wanna do is to make pacman colloide witth the a ghost.. So gonna Check the colooision of the ghost and the pacman 
-
+The next thing I wanna do is to make pacman colloide witth the a ghost.. So gonna Check the colooision of the ghost and the pacman So after colloision I want to reset the positions of the pacman and the ghosts.. 
 
 
