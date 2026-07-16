@@ -30,7 +30,7 @@ let PacmanUpimg;
 let PacmanDownimg;
 let PacmanLeftimg;
 let PacmanRightimg;
-let wall_img;
+let wall_img;//de fw ff wefwde fef ewfw 
 
 //Game map 
 //each pixel = 32 x 32

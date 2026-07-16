@@ -3,6 +3,12 @@ body{
     /*black blackground color....*/
     /*Super dark is better than plain dark*/
     background-color: #050505;
+    /*Drawing 30 x 30 animated grid*/
+    background-image: 
+    linear-gradient(rgba(0, 255, 255, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 255, 255, 0.08) 1px, transparent 1px);
+    /*Defining the grid for the board*/
+    
     color: white;
     /*Arcade font style color is better in this case..*/ 
     font-family: "Courier New", Courier, monospace;
