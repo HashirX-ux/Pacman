@@ -364,6 +364,9 @@ Now for the ghost reset positions.. and gonna update that after the reset on the
 Gang I am gonna chke my self fr.. I am doing these really stupid mistakes gng .. HELPP
 <img width="1278" height="379" alt="image" src="https://github.com/user-attachments/assets/9fe5aa6b-0990-4810-81b4-db22d8d6afa2" />
 <br>
+BRO HOW MANY ARE THERE??? 
+<img width="899" height="262" alt="image" src="https://github.com/user-attachments/assets/5d2bdb46-d4c3-4d7a-bed1-638d9c72bb77" />
+<br>
 
 
 
