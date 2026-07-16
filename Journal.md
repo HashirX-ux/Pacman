@@ -287,6 +287,9 @@ HOLYY SHEEEEEESH AM I COOCKED??
 So I just forgot to add "this" before velocity and ts just sooo annoyingggg
 <img width="373" height="104" alt="image" src="https://github.com/user-attachments/assets/bb1ef039-640e-40f7-814d-5654127fcc6b" />
 <br>
+IT WORKS AND IF YOUR CODE WORKS DONT'T TOUCH ITTTTTTT
+<img width="587" height="579" alt="image" src="https://github.com/user-attachments/assets/d27d0217-6438-45f9-90cd-4ec43ee472cc" />
+<br>
 
 
 
