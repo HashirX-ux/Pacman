@@ -262,6 +262,7 @@ class Block {
         const prevDirection = this.direction; 
         this.direction = direction;
         this.updateVelocity();
+        //Check for the colloision and if the colloision happens we take a step back
         
    } 
 
