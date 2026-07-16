@@ -224,6 +224,9 @@ Gonna call a function called movepacman and its gonnna ge called everytime we pr
 TIME TO READ SOME DOCUMENTATION GNG CUZ I CANT UNDERSTAND SH..
 <img width="421" height="150" alt="image" src="https://github.com/user-attachments/assets/5b6d09c6-0825-40f8-acdc-6b73f597534a" />
 <br>
+At this point i dont even know tf am I writing .. BRUHHHH
+<img width="305" height="56" alt="image" src="https://github.com/user-attachments/assets/548a2200-deb2-4c41-9771-408b25ece1f7" />
+<br>
 
 
 
