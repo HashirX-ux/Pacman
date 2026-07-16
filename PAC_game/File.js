@@ -201,7 +201,10 @@ function movePacman(){
         movePacman.updateDirection("D");
     }
     else if(e.code == "ArrowLeft" || e.code == "KeyA") {
-        
+        movePacman.updateDirection("L");
+    }
+    else if(e.code == "ArrowRight" || e.code == "KeyD") {
+        movePacman
     }
 }
 
