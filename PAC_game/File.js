@@ -329,7 +329,7 @@ function movePacman(e){
     //resetting the score back to zero. 
         score = 0;
     //gameOver bask to the false...
-        gameOver = false;
+        gameOver = false; ///d  dfe
     //call the update after everything resets to update everything .. HOLY ASIAN GENES ..
         update();
         return;//deed
