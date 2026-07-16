@@ -11,6 +11,8 @@ body{
 #board { 
     background-color: black;
     border: 4px solid #111;
-    
+    border-radius: 8px;
+    /*This creates a neon glow behind the board of the map*/
+    box-shadow: 0 0 20px rgba(0, 255, 225, 0.2), 0 0 50px rgba(0, 100, 255, 0.3);
 } 
 
