@@ -326,6 +326,7 @@ function move() {
             shakeframes = 10;
             if(lives == 0) {
                 gameOver = true;
+                //
                 return; 
                 //After the game is over need to stop the loop...
             }
