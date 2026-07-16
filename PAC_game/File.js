@@ -251,7 +251,6 @@ function move() {
             lives -= 1;
             //Function for Resetting the positions of the pacman and the ghosts after the colloision..
             resetPositions();
-            
         }
 
         //Error config for the 9th row if they get stuck..Force em out.. 
@@ -403,6 +402,9 @@ class Block {
         this.velocityY = 0; 
     }
    }
+
+
+   // 
 
 
 }
