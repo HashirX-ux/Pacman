@@ -239,6 +239,9 @@ The key singls for the game control by the keyboard is done gng.. Looks good to 
 Now we need to update the x and y position and in order to do so in a function called move.. So this single function is gonna handle ALL the movement in my game.. Cuz I cant do math for more ones gng.. faaahhh!!
 <img width="252" height="128" alt="image" src="https://github.com/user-attachments/assets/0cd23364-829e-44a8-9d8f-dfec452bac5a" />
 <br>
+Here is how its gonna work: 
+<img width="505" height="128" alt="image" src="https://github.com/user-attachments/assets/6a6aa723-3d71-458b-96bf-fbbe96c629bb" />
+<br>
 
 
 
