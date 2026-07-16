@@ -231,19 +231,19 @@ function movePacman(e){
     //Updating the image of the pacman in accordance to the direction its moving in..
     if(pacman.direction == 'U') {
         //Upper Image for the pacman...
-        pacman.image = pacmanUpImage;
+        pacman.image = PacmanUpimg;
     }
     else if(pacman.direction == 'D'){
         //Down Image for the pacman....
-        pacman.image = pacmanDownImage;
+        pacman.image = PacmanDownimg;
     }
     else if(pacman.direction == 'L') {
         //Left Image for the pacman... 
-        pacman.image = pacmanLeftImage;
+        pacman.image = PacmanLeftimg;
     }
     else if(pacman.direction == 'R') {
-        //Right Image for the pacman
-        pacman.image = pacmanRightImage;
+        //Right Image for the pacman 
+        pacman.image = PacmanRightimg;
     }
 }
 
