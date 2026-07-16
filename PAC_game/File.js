@@ -53,7 +53,7 @@ let pacman;
 
 //Directions list for the movement of the ghosts
 //Up and down and left and right directions...
-const direction = ('U', 'D', 'L', 'R');
+const directions = ('U', 'D', 'L', 'R');
 
 
 window.onload = function() {
@@ -70,9 +70,14 @@ window.onload = function() {
 
     //Now the actual drawing part and I dont know what heck am I GONNA DOOO GNG
     //Page Loader so gonna add some direction keys.. 
+    //getting a random direction for the ghosts 
     for(let ghost of ghosts.values()){
-        
-    }
+        //4 cuz we have 4 directions DUHH .. 
+        const newDirection = directions[math.floor(math.random() * 4)];
+        //Movewment for the randoom movement for the ghosts 
+        ghost.updateDirection(newDirection);
+    }   
+    
     update();      
     // press on the and let go and key automatically comes back up
     document.addEventListener("keyup", movePacman);
