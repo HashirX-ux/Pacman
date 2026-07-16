@@ -267,7 +267,11 @@ class Block {
         this.y += this.velocityY;
 
         // Iterating thro the set of walls... 
-        
+        for(let wall of walls.values()) {
+            if(colloision(this, wall)) {
+                
+            }
+        }
    } 
 
 
