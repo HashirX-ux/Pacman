@@ -343,6 +343,7 @@ Now According to my map my ghost get stuck on the row 9 as they collide with the
 <br>
 <img width="516" height="86" alt="image" src="https://github.com/user-attachments/assets/e4a3155c-4fc9-4b99-9fe6-f9c34821591a" />
 <br>
+Now I gotta handle the colloisions between the pacman and the ghost So I need to update the score and the lives abd whether the game is over or not so lets gettttt ththththt
 
 
 
