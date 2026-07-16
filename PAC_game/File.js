@@ -285,6 +285,8 @@ function draw() {
         const p = scorePopups[i];
         //Refering the pop up after the death of the pacman...
         context.fillText("+10", p.x, p.y);
+        //Highscore color after it is reached.. 
+        context.fillStyle()
         // floating upword for the count.. 
         p.y -= 0.5;
         //count down instead of the fading the pixels..
@@ -327,7 +329,7 @@ function move() {
             if(lives == 0) {
                 gameOver = true;
                 //Setting up highscore for the player.. 
-                if(score > highscore) {
+                if(score > highscore) {//
                     //Math.exe has stopped working again gng :(
                     highscore = score;
                     localStorage.setItem("pacmanHighscore", highscore);
