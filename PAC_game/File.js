@@ -20,6 +20,10 @@ let PacmanLeftimg;
 let PacmanRightimg;
 let wall_img;
 
+//Game map 
+//each pixel = 32 x 32
+//total columns = 21
+//total rows = 19
 const tileMap = [
     "XXXXXXXXXXXXXXXXXXX",
     "X        X        X",
