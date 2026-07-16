@@ -36,7 +36,7 @@ let wall_img;
 //each pixel = 32 x 32
 //total columns = 21
 //total rows = 19  
-const tileMap = [
+const tileMap = [//f wewfw efew ew e
     "XXXXXXXXXXXXXXXXXXX",
     "X        X        X",
     "X XX XXX X XXX XX X",
