@@ -317,6 +317,9 @@ function move() {
     //Keyboard control config:  
     //Direction Config for the keys...
 function movePacman(e){
+    //Gonna reset the game after the user dies 3 time (NOT LITERALLY!)
+    //reset game after 3 deaths..
+            
     if(e.code == "ArrowUp" || e.code == "KeyW") {
         pacman.updateDirection('U'); 
     }
