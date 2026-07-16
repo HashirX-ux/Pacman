@@ -330,7 +330,7 @@ function movePacman(e){
     //gameOver bask to the false...
     gameOver = false;
     //call the update after everything resets to update everything .. HOLY ASIAN GENES ..
-
+    update();
     //Upper Key config:
     if(e.code == "ArrowUp" || e.code == "KeyW") {
         pacman.updateDirection('U'); 
