@@ -323,7 +323,7 @@ OBVIOUSLY THIS STUPID "M" i HAD TO WRITE Math intead if math ARE YOU SRS????
 They move but the walls for the ghosts are not defined.. 
 <img width="651" height="450" alt="image" src="https://github.com/user-attachments/assets/4aca577f-f951-4e7e-b756-3eaf03b3958b" />
 <br>
-
+Now I am gonna check for the wall colloisions for the ghosts .. 
 
 
 
