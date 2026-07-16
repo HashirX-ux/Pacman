@@ -243,13 +243,17 @@ function draw() {
     //Creating the classic NEON glow for the walls.. 
     context.shadowColor = "cyan";
     //Shadow blurring 8 for the classic neon look.. 
-     
+    context.shadowBlur = 8; 
 
 
     //Specifying the images for the walls: 
     for(let wall of walls.values()) {
         context.drawImage(wall.image, wall.x, wall.y, wall.width, wall.height);
     }
+
+    // context shadow blue resetting.. 
+    context
+
     //Specifying the color for the rectangle:
     context.fillStyle = "red";
     //Iterating tho the set..  
