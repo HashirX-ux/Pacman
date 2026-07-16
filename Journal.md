@@ -257,5 +257,8 @@ And OFCOURSE WE HAVE MORE
 Found it gng.. Dont listen to music while you CODEEEEE
 <img width="180" height="320" alt="image" src="https://github.com/user-attachments/assets/7c7ebcff-3413-453c-b204-25016a42f123" />
 <br>
+Ok gng we have gotten somewhere atleast.. it looks ugly af.. 
+<img width="576" height="604" alt="image" src="https://github.com/user-attachments/assets/cc6109bc-2488-4330-8461-9d711b63218b" />
+<br>
 
 
