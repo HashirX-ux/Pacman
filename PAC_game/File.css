@@ -139,8 +139,15 @@ body::after{
 #pressStart {
     color: #ff0;
     font-size: 0.9rem;
+    /* planned to add 3.5 px of letter spacing but the 3px one was looking wayyy better */
     letter-spacing: 3px;
-    
+    margin-top: 20px;
+    position: relative;
+    z-index: 2;
+    animation: blink 1s steps(1) infinite;
 }
+
+/* Defining the blinking animation configuration for the game */
+
 
 
