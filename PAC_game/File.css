@@ -46,7 +46,7 @@ body::after{
     position: fixed;
     inset: 0;
     pointer-events: none;
-    background: radial-gradient(circle at center, transparent 45%, rgba(0, 0, 0, 0, 8) 100%);
+    background: radial-gradient(circle at center, transparent 45%, rgba(0, 0, 0, 0.8) 100%);
     z-index: 1;
 }
 
@@ -69,7 +69,7 @@ body::after{
     animation: neonSignFlicker 4s infinite; 
 }
 
-@keyframes neoSignFlicker {
+@keyframes neonSignFlicker {
     0%, 18%, 22%, 25%, 53%, 57%, 100% {opacity: 1;}
     20%, 24%, 55% {opacity: 0.35;}  
 }
@@ -113,6 +113,6 @@ body::after{
         rgba(0, 0, 0, 0) 0px,
         rgba(0, 0, 0, 0) 2px,
         rgba(0, 0, 0, 0.15)3px
-    );
+    ); 
 }
 
