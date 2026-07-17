@@ -4,6 +4,7 @@ body{
     margin: 0;
     padding-top: 48px;
     font-family: "Courier New", Courier, monospace;
+    /*Keeping the grid from chasing scroll Bars*/
     
 }
 
