@@ -5,6 +5,9 @@ body{
     padding-top: 48px;
     font-family: "Courier New", Courier, monospace;
     /*Keeping the grid from chasing scroll Bars*/
+    overflow: hidden;
+    position: relative;
+    /*Putting the grid behind the canvas so it matches the board line*/
     
 }
 
