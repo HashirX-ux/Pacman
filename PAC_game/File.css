@@ -34,6 +34,7 @@ body::before{
     animation: scrollGrid 20s linear infinite;
 }
 
+/* scrollGrid animation for the board.. */
 @keyframes scrollGrid{
     0% {transform: translate(0px, 0px);}
     100% {transform: translate(30px, 30px);}
