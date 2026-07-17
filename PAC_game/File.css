@@ -11,6 +11,7 @@ body{
     z-index: 0;
 }
 
+/* Creating a hardware accelerated layer for the grid to load to reduce the potential lag of the pacman and the ghosts */
 
 
 
