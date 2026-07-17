@@ -1,10 +1,10 @@
-# PAC-MAN 👾
+# PAC-MAN 
 
 a browser based Pac-Man clone i built with plain HTML, CSS and vanilla JS. No frameworks, no libraries, just canvas and a whole lotta trial and error lol.
 
 started this as a "how hard can it actually be" project.. turns out pretty hard gng but here we are.
 
-## What it actually does
+## What it actually does...
 
 - classic Pac-Man gameplay on a 21x19 tile grid, all drawn on a single `<canvas>`
 - 4 ghosts (blue, orange, pink, red) that move around randomly and bounce off walls
@@ -14,7 +14,7 @@ started this as a "how hard can it actually be" project.. turns out pretty hard 
 - screen shakes for a sec when a ghost gets you (dramatic i know)
 - press any arrow key after game over to reset and go again
 
-## Visual stuff (the fun part)
+## Visual stuff...
 
 once the gameplay worked i spent a stupid amount of time making it look like an actual arcade cabinet instead of a plain black box lol:
 
@@ -36,7 +36,7 @@ all of this is pure CSS animations, zero extra JS for the visuals.
 
 1. clone the repo
 ```
-git clone <your-repo-url-here>
+git clone https://github.com/HashirX-ux/Pacman.git
 ```
 2. you'll need these image assets sitting in the same folder as `index.html` (not included in this readme obviously but should be in the repo):
    - `wall.png`
