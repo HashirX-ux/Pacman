@@ -38,7 +38,7 @@ once the gameplay worked i spent a stupid amount of time making it look like an 
 <br>
 7- blinking "PRESS ARROW KEYS TO START" text
 
-all of this is pure CSS animations, zero extra JS for the visuals.
+--> all of this is pure CSS animations, zero extra JS for the visuals.
 
 ## Controls...
 
