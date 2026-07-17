@@ -9,6 +9,8 @@ body{
     position: relative;
     /*Putting the grid behind the canvas so it matches the board line*/
     z-index: 0;
+    /* Creating the animation for the Pacman */
+    animation: crtFlicker 6s infinite;
 }
 
 /* Creating a hardware accelerated layer for the grid to load to reduce the potential lag of the pacman and the ghosts */
@@ -25,7 +27,7 @@ body::before{
     background-image: 
     linear-gradient(rgba(0, 255, 255, 0.08) 1px, transparent 1px),
     linear-gradient(90deg, rgba(0, 255, 255, 0.08) 1px, transparent 1px);
-    background-size: 30px 30p;
+    background-size: 30px 30px;
 
 
     /* Uisng the transform is GPU and causes zero lag.. Found this online gng yayayay */
