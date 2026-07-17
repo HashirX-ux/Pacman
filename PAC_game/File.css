@@ -137,6 +137,9 @@ body::after{
 
 /* Creating the blinking start prompt for the user */
 #pressStart {
+    color: #ff0;
+    font-size: 0.9rem;
+    letter-spacing: 3px;
     
 }
 
