@@ -83,7 +83,12 @@ body::after{
 }
 
 /* Configuring all the animation for the board and its visuals */
+/* neonPulse animation for the board amd its visuals */
 @keyframes neonPulse {  
-    
+    0% {box-shadow:  0 0 20px rgba(0, 255, 255, 0.2), 0 0 50px rgba(0, 100, 255, 0.3);}
+    100% {box-sizing: 0 0 32px rgba(0, 255, 255, 0.5), 0 0 70px rgba(0, 100, 255, 0.55);}
 }
+
+/* boardIntro animation for the board and its visuals */
+
 
