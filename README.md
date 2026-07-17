@@ -1,4 +1,4 @@
-# PAC-MAN 
+# PAC-MAN :D
 
 a browser based Pac-Man clone i built with plain HTML, CSS and vanilla JS. No frameworks, no libraries, just canvas and a whole lotta trial and error lol.
 
@@ -25,11 +25,17 @@ started this as a "how hard can it actually be" project.. turns out pretty hard 
 once the gameplay worked i spent a stupid amount of time making it look like an actual arcade cabinet instead of a plain black box lol:
 
 1- scrolling cyan grid in the background (its actually animated now, took me embarrassingly long to catch that typo)
+<br>
 2- vignette around the edges so your eyes go to the board
+<br>
 3- neon glow around the board that slowly pulses + cycles through colors
+<br>
 4- CRT style scanlines over the board
+<br>
 5- subtle screen flicker like an old monitor
+<br>
 6- neon "PAC-MAN" title up top that flickers on like a sign warming up, plus a lil wiggle
+<br>
 7- blinking "PRESS ARROW KEYS TO START" text
 
 all of this is pure CSS animations, zero extra JS for the visuals.
