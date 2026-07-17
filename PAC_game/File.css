@@ -96,4 +96,9 @@ body::after{
 }
 
 
+/* Defining the after effects of the board */
+#board::after{
+    content: "";
+    position: absolute;
+}
 
