@@ -25,9 +25,10 @@ body::before{
     z-index: -1;
 
     background-image: 
+    radial-gradient(rgba(0, 255, 255, 0.18) 1px, transparent 1px),
     linear-gradient(rgba(0, 255, 255, 0.08) 1px, transparent 1px),
     linear-gradient(90deg, rgba(0, 255, 255, 0.08) 1px, transparent 1px);
-    background-size: 30px 30px;
+    background-size: 90px, 90px, 30px, 30px, 30px, 30px;
 
 
     /* Uisng the transform is GPU and causes zero lag.. Found this online gng yayayay */
@@ -87,7 +88,7 @@ body::after{
     /* Creating a neon glow behind the board of the map for the visuals part */
     box-shadow: 0 0 20px rgba(0, 255, 255, 0.2), 0 0 50px rgba(0, 100, 255, 0.3);
     /* Creating the animation for the visuals of the board */
-    animation: neonPulse 2.5s ease-in-out infinite alternate, boardIntro 0.8s ease-out;
+    animation: neonPulse 2.5s ease-in-out infinite alternate, boardIntro 0.8s ease-out hueCycle 10s linear infinite;
 }
 
 /* Configuring all the animation for the board and its visuals */
@@ -102,6 +103,8 @@ body::after{
     from {opacity: 0; transform: scale(0.94);}
     to {opacity: 1; transform: scale(1);}
 }
+
+/* Creating the rainbow stylw animation and visual for the board */
 
 
 /* Defining the after effects of the board */
