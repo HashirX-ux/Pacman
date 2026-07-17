@@ -77,7 +77,13 @@ body::after{
     20%, 24%, 55% {opacity: 0.35;}  
 }  
 
-/*  */
+/* Tile Wiggling animation on top of the board to get the CLASSSYYYYYY LOOOOOK GNGNGNGNGNGNG */
+@keyframes titleWiggle{
+    0%, 100% {transform: rotate(0deg);}
+    /* These calculation were researched gng cause my dumb ahh could understand the wiggling of the frames (flower emoji) */
+    25% {transform: rotate(-1.5deg);}
+    75% {transform: rotate(-1.5deg);}
+}
 
 
 /* Board design config system */
@@ -122,9 +128,14 @@ body::after{
     pointer-events: none;
     background: repeating-linear-gradient(
         /* Defining the colors for pixel grading and its shades */
+        /* These colors were researched So I reserver recognition for that plsssssssssssssss */
         rgba(0, 0, 0, 0) 0px,
         rgba(0, 0, 0, 0) 2px,
         rgba(0, 0, 0, 0.15) 3px
     ); 
 }
+
+/* Creating the blinking start prompt for the user */
+
+
 
