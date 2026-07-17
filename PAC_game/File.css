@@ -100,5 +100,13 @@ body::after{
 #board::after{
     content: "";
     position: absolute;
+    inset: 0;
+    pointer-events: none;
+    backdrop-filter: repeating-linear-gradient(
+        /* Defining the colors for pixel grading and its shades */
+        rgba(0, 0, 0, 0) 0px,
+        rgba(0, 0, 0, 0) 2px,
+        rgba(0, 0, 0, 0.15)3px
+    );
 }
 
