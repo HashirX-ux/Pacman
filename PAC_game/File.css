@@ -36,8 +36,12 @@ body::before{
 
 
 
+
+
+
+
 /*Definig the animation that makes the grid slied without the end */
-@keyframes scollGrid{ 
+@keyframes scrollGrid{ 
     0% {transform: translate(0px, 0px);}
     100% {transform: translate(30px, 30px);}
 }
