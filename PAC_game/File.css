@@ -35,7 +35,14 @@ body::before{
 }
 
 
-
+body::after{
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    background: radial-gradient(circle at center, transparent 45%, rgba(0, 0, 0, 0, 8) 100%);
+    z-index: 1;
+}
 
 
 
