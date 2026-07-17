@@ -44,6 +44,10 @@ body::after{
     z-index: 1;
 }
 
+@keyframes crtFlicker {
+    
+}
+
 
 
 
