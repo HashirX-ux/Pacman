@@ -31,8 +31,14 @@ body::before{
 
 
     /* Uisng the transform is GPU and causes zero lag.. Found this online gng yayayay */
-    animation: crtFlicker 6s infinite;
+    animation: scrollGrid 20s linear infinite;
 }
+
+@keyframes scrollGrid{
+    0% {transform: translate(0px, 0px);}
+    100% {transform: translate(30px, 30px);}
+}
+
 
 
 body::after{
