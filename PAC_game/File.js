@@ -1,3 +1,6 @@
+// A huge shout out to MDN documentations and my 2 brain cells.. This relly helped alottttttt
+
+
 // Board-size
 let board; 
 const rowCount = 21;
@@ -59,7 +62,7 @@ const tileMap = [//f wewfw efew ew e
     "X                 X",
     "XXXXXXXXXXXXXXXXXXX" 
 ]; 
-
+//Defininf the parameters for the ghosts, walls and the pacmannnn
 const walls = new Set(); 
 const foods = new Set();
 const ghosts = new Set();
@@ -317,7 +320,17 @@ function move() {
             break;
         }
     }
-    
+    // Stopping the pacman form the barries of the board so it DOESN'T JSUT DISSAPPEAR OUT OF NO WHERE..
+    // I dont really know about the formula so I kinda researched it up and 2 brain cells can't understand ts tbh..
+    if(pacman.x <= 0 || pacman.x + pacman.width > boardWidth) {
+        //For the velocity of the X direction or horizontal direction..
+        pacman.x -= pacman.velocityX;
+        //For the velocity of the Y direction or vertical direction..
+        pacman.y -= pacman.velocityY;
+    }
+
+
+
     for(let ghost of ghosts.values()) {
 
         //Check the colooision of the ghost and the pacman 
@@ -374,7 +387,8 @@ function move() {
     for(let food of foods.values()) {
         if(colloision(pacman, food)) {
             foodEaten = food;
-            score += 10;
+            //Upgrading the score everytime after 1 food us eaten by 10 cause 1 food = 10 points
+            score += 10; 
             //This scorePopups section is googled gng cuz my dumb ahh didn't knew the syntax .. cmon gng plss :)))
             scorePopups.push({x: pacman.x, y: pacman.y, timer: 20})
             break;

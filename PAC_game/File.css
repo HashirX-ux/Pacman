@@ -118,11 +118,12 @@ body::after{
     0% {filter: hue-rotate(0deg); }
     /* Color style animatio of the board */
     100% {filter: hue-rotate(360deg); } 
-}
+} 
 
 /* Defining the after effects of the board */
-#board::after{
+#board::after{ 
     content: "";
+    /* Getting the position to the absolute for the visual */
     position: absolute;
     inset: 0;
     pointer-events: none;
@@ -148,6 +149,9 @@ body::after{
 }
 
 /* Defining the blinking animation configuration for the game */
-
+@keyframes blink{
+    0%, 49% {opacity: 1;}
+    50%, 100% {opacity: 0;}
+}
 
 
