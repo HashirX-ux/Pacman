@@ -44,19 +44,25 @@ body::after{
     z-index: 1;
 }
 
+
+/* Flickering animation config for the board of the pacman */
 @keyframes crtFlicker {
     0%, 96%, 100% {opacity: 1;}
-    
+    97% {opacity: 0.94;}
+    98.5% {opacity: 0.98;}
 }
 
-
-
-
-/*Definig the animation that makes the grid slied without the end */
-@keyframes scrollGrid{ 
-    0% {transform: translate(0px, 0px);}
-    100% {transform: translate(30px, 30px);}
+#arcadeTitle{ 
+    color: #0ff;
+    font-size: 2.2rem;
+    letter-spacing: 10px;
+    margin: 0 0 24px; 
+    position: relative;
+    z-index: 2;
+    text-shadow: 0 0 8px #0ff, 0 0 20px #0ff, 0 0 45px #00e5ff;
+    animation: neonSignFlicker 4s infinite; 
 }
+
 /* Board design config system */
 #board { 
     background-color: black;
