@@ -8,8 +8,12 @@ body{
     overflow: hidden;
     position: relative;
     /*Putting the grid behind the canvas so it matches the board line*/
-    
+    z-index: 0;
 }
+
+
+
+
 
 /*Definig the animation that makes the grid slied without the end */
 @keyframes scrollGrid {
