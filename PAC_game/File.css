@@ -31,7 +31,7 @@ body::before{
 
 
     /* Uisng the transform is GPU and causes zero lag.. Found this online gng yayayay */
-    animation: scrollGrid 20s linear infinite;
+    animation: crtFlicker 6s infinite;
 }
 
 
@@ -45,6 +45,7 @@ body::after{
 }
 
 @keyframes crtFlicker {
+    0%, 96%, 100% {opacity: 1;}
     
 }
 
@@ -61,7 +62,7 @@ body::after{
     background-color: black;
     border: 4px solid #111;
     border-radius: 8px;
-    /*This creates a neon glow behind the board of the map */
+    /*This creates a neon gloow behind the board of the map */
     box-shadow: 0 0 20px rgba(0, 255, 225, 0.2), 0 0 50px rgba(0, 100, 255, 0.3);
 } 
 
