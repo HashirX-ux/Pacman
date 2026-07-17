@@ -12,7 +12,21 @@ body{
 }
 
 /* Creating a hardware accelerated layer for the grid to load to reduce the potential lag of the pacman and the ghosts */
+body::before{
+    content: "";
+    position: absolute;
+    top: -38px;
+    left: -38px;
+    /* Did the math using some research gng SO i DESERVE some recognition for that XD */
+    width: calc(100% + 60px);
+    height: calc(100% + 60px);
+    z-index: -1;
 
+    background-image: 
+    linear-gradient(rgba(0, 255, 255, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 255, 255, 0.08) 1px, transparent 1px);
+    background-size: 30px 30px;
+}
 
 
 
