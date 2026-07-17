@@ -68,7 +68,7 @@ body::after{
     position: relative;
     z-index: 2;
     text-shadow: 0 0 8px #0ff, 0 0 20px #0ff, 0 0 45px #00e5ff;
-    animation: neonSignFlicker 4s infinite; 
+    animation: neonSignFlicker 4s infinite, titleWiggle 3s ease-in-out infinite; 
 }
 
 /* Neon Light for the colors and visual of the board */
@@ -76,6 +76,9 @@ body::after{
     0%, 18%, 22%, 25%, 53%, 57%, 100% {opacity: 1;}
     20%, 24%, 55% {opacity: 0.35;}  
 }  
+
+/*  */
+
 
 /* Board design config system */
 #board { 
@@ -105,7 +108,11 @@ body::after{
 }
 
 /* Creating the rainbow stylw animation and visual for the board */
-
+@keyframes hueCycle{
+    0% {filter: hue-rotate(0deg); }
+    /* Color style animatio of the board */
+    100% {filter: hue-rotate(360deg); } 
+}
 
 /* Defining the after effects of the board */
 #board::after{
