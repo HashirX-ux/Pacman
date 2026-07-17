@@ -75,6 +75,15 @@ body::after{
     overflow: hidden;  
     background-color: black;
     border: 4px solid #111;
+    border-radius: 8px;
+    /* Creating a neon glow behind the board of the map for the visuals part */
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.2), 0 0 50px rgba(0, 100, 255, 0.3);
+    /* Creating the animation for the visuals of the board */
+    animation: neonPulse 2.5s ease-in-out infinite alternate, boardIntro 0.8s ease-out;
+}
+
+/* Configuring all the animation for the board and its visuals */
+@keyframes neonPulse {  
     
 }
 
