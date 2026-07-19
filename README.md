@@ -63,7 +63,7 @@ git clone https://github.com/HashirX-ux/Pacman.git
 
 1. `index.html` — the page itself just loads up the canvas + css + js nothing fancy
 2. `File.js` — where all the actual brain of the game lives lol. movement collisions ghost AI score all of it
-3. `File.css` — the grid background and all the neon/arcade glow-up effects (well whatever glow survived after the great performance-fix era ..)
+3. `File.css` — the grid background and all the neon/arcade glow-up effects (well whatever glow survived after the great performance fix era ..)
 
 
 ## Known issues / stuff i still wanna fix..
