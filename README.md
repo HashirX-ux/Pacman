@@ -4,6 +4,14 @@ a browser based Pac-Man clone i built with plain HTML, CSS and vanilla JS. No fr
 
 started this as a "how hard can it actually be" project.. turns out pretty hard gng but here we are.
 
+#DISCLAIMER!
+## Fixing the choppy movement
+
+The game was originally running on setTimeout(update 50) which meant both movement and drawing were locked to a fixed 50ms timer that doesnt actually sync with your monitors refresh rate so it looked stutery even tho the logic was tecnically fine... Swapping straight to requestanimationframe fixed the choppiness but broke the speed instead since rAF fires like 3x more often than the old timer did. Tried dividing the velocity down to compensate but that introduced non whole pixel movement which desynced everything from the 32px grid and broke collisions RIP that one ghost....
+
+The actual fix was to stop tying movement speed to the render rate entirely.... draw() now runs every frame by requestnimationrame so it stays buttery smoothhhhh criminalllllll but move() only fires every 50ms using a timestamp check lastMoveTime and moveInterval keeping the original whole-pixel speed intact. Bascially the browser handles the smooth animation while the actual gameplay logic runs at the exact same pace it always did. Also fixed a small restart glitch where calling update() with no timestamp briefly broke the check on respawn. Movements smooth now and nothings glitching through walls anymore so calling this one solved....
+
+
 ## What it actually does...
 
 1- classic Pac-Man gameplay on a 21x19 tile grid, all drawn on a single `<canvas>`
