@@ -52,21 +52,21 @@ once the gameplay worked i spent a stupid amount of time making it look like an 
 ```
 git clone https://github.com/HashirX-ux/Pacman.git
 ```
-2. you'll need these image assets sitting in the same folder as `index.html` (not included in this readme obviously but should be in the repo):
-   - `wall.png`
-   - `blueGhost.png`, `orangeGhost.png`, `pinkGhost.png`, `redGhost.png`
-   - `pacmanUp.png`, `pacmanDown.png`, `pacmanLeft.png`, `pacmanRight.png`
-3. just open `index.html` in your browser. no build step, no npm install, nothing. its literally just a webpage
+2. you'll also need these image assets chilling in the same folder as `index.html` (not gonna paste them in this readme obviously, but they better be in the repo lol):
+   1. `wall.png`
+   2. `blueGhost.png`, `orangeGhost.png`, `pinkGhost.png`, `redGhost.png`
+   3. `pacmanUp.png`, `pacmanDown.png`, `pacmanLeft.png`, `pacmanRight.png`
+
+3. just open `index.html` in your browser lol. no build step, no npm install, no nothing. it's literally just a webpage, don't overthink it
 
 ## Files
 
-| File | What it does |
-|---|---|
-| `index.html` | the page itself, loads the canvas + css + js |
-| `File.js` | all the game logic, movement, collisions, ghost AI, score |
-| `File.css` | grid background + all the neon/arcade visual effects |
+1. `index.html` — the page itself just loads up the canvas + css + js nothing fancy
+2. `File.js` — where all the actual brain of the game lives lol. movement collisions ghost AI score all of it
+3. `File.css` — the grid background and all the neon/arcade glow-up effects (well whatever glow survived after the great performance-fix era ..)
 
-## Known issues / stuff i still wanna fix
+
+## Known issues / stuff i still wanna fix..
 
 1- pacman stops dead at the tunnel openings on the sides instead of wrapping around to the other side like the real game does. classic tunnel teleport is still on the todo list
 2- ghosts pick a random direction on every wall bump so sometimes they look a lil derpy standing in one spot for a sec, its not a bug its a feature (its a bug)
