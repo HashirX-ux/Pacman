@@ -52,18 +52,18 @@ once the gameplay worked i spent a stupid amount of time making it look like an 
 ```
 git clone https://github.com/HashirX-ux/Pacman.git
 ```
-2. you'll also need these image assets chilling in the same folder as `index.html` (not gonna paste them in this readme obviously, but they better be in the repo lol):
-   1. `wall.png`
-   2. `blueGhost.png`, `orangeGhost.png`, `pinkGhost.png`, `redGhost.png`
-   3. `pacmanUp.png`, `pacmanDown.png`, `pacmanLeft.png`, `pacmanRight.png`
+2--> you'll also need these image assets chilling in the same folder as `index.html` (not gonna paste them in this readme obviously, but they better be in the repo lol):
+1- `wall.png`
+2- `blueGhost.png` `orangeGhost.png` `pinkGhost.png` `redGhost.png`
+3- `pacmanUp.png` `pacmanDown.png` `pacmanLeft.png` `pacmanRight.png`
 
 3. just open `index.html` in your browser lol. no build step, no npm install, no nothing. it's literally just a webpage, don't overthink it
 
 ## Files
 
-1. `index.html` — the page itself just loads up the canvas + css + js nothing fancy
-2. `File.js` — where all the actual brain of the game lives lol. movement collisions ghost AI score all of it
-3. `File.css` — the grid background and all the neon/arcade glow-up effects (well whatever glow survived after the great performance fix era ..)
+1- `index.html` — the page itself just loads up the canvas + css + js nothing fancy
+2- `File.js` — where all the actual brain of the game lives lol. movement collisions ghost AI score all of it
+3- `File.css` — the grid background and all the neon/arcade glow-up effects (well whatever glow survived after the great performance fix era ..)
 
 
 ## Known issues / stuff i still wanna fix..
