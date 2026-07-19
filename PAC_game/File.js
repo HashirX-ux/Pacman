@@ -512,25 +512,22 @@ class Block {
    
    // updating the direction.... 
     updateDirection(direction) {
-        const prevDirection = this.direction;
-        const prevVelocityX = this.velocityX;
-        const prevVelocityY = this.velocityY;
-        this.direction = direction;
-        this.updateVelocity();
-        this.x += this.velocityX;
-        this.y += this.velocityY;
+    const prevDirection = this.direction;
+    this.direction = direction;
+    this.updateVelocity();
+    this.x += this.velocityX;
+    this.y += this.velocityY;
 
     for (let wall of walls.values()) {
         if (colloision(this, wall)) {
             this.x -= this.velocityX;
             this.y -= this.velocityY;
             this.direction = prevDirection;
-            this.velocityX = prevVelocityX;
-            this.velocityY = prevVelocityY;
+            this.updateVelocity(); // recompute fresh instead of trusting a stale value
             break;
-            }
         }
-    }
+      }
+    }   
 
 
    // Direction Control of the Pacman 
