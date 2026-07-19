@@ -1,6 +1,4 @@
 // A huge shout out to MDN documentations and my 2 brain cells.. This relly helped alottttttt
-
-
 // Board-size
 let board; 
 const rowCount = 21;
@@ -98,7 +96,7 @@ window.onload = function() {
         ghost.updateDirection(newDirection);
     }  
     
-    update();      
+    requestAnimationFrame(update);      
     // press on the and let go and key automatically comes back up
     document.addEventListener("keydown", movePacman);
 
@@ -209,15 +207,22 @@ function LoadMap() {
     }
 }   
 
-function update() {
+let lastMoveTime = 0;
+const moveInterval = 50;
+
+function update(timestamp) {
     //Stopping the loop for the gameOver section to exit the game..
     if(gameOver) {
         // return once cause we dont call settime out and hence we stop calling the update 
         return;
     } 
+    requestAnimationFrame(update); 
+    if(timestamp - lastMoveTime < moveInterval) {
+        return;
+    }
+    lastMoveTime = timestamp;
     move(); 
     draw(); //Time for every cycle --> 50ms move and draw motion.. 
-    setTimeout(update, 50); 
 } 
 
 // FPS config --> 20FPS --> 1000ms / 20 * 50 per px changing frames so its move and draw cycle ..
@@ -248,9 +253,9 @@ function draw() {
     }
 
     //Creating the classic NEON glow for the walls.. 
-    context.shadowColor = "cyan";
+    // context.shadowColor = "cyan";
     //Shadow blurring 8 for the classic neon look.. 
-    context.shadowBlur = 8; 
+    // context.shadowBlur = 8; 
 
 
     //Specifying the images for the walls: 
@@ -366,7 +371,7 @@ function move() {
          
          //Defining the wall colloisions for the ghosts.. 
          for(let wall of walls.values()) {
-            if(colloision(ghost, wall) || ghost.x <= 0 || ghost.x + ghost.width >= boardWidth) {
+            if(colloision(ghost, wall) || ghost.x <= 0 || ghost.x + ghost.width > boardWidth) {
                 // for the x colloisions ..
                 ghost.x -= ghost.velocityX;
                 // for the y colloisions..
@@ -427,7 +432,7 @@ function movePacman(e){
     //gameOver bask to the false...
         gameOver = false; 
     //call the update after everything resets to update everything .. HOLY ASIAN GENES ..
-        update();
+        requestAnimationFrame(update);
         return;//deed
     }
     //Upper Key config:
