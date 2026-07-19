@@ -14,17 +14,17 @@ The actual fix was to stop tying movement speed to the render rate entirely.... 
 
 ## What it actually does...
 
-1- classic Pac-Man gameplay on a 21x19 tile grid, all drawn on a single `<canvas>`
+1- classic Pac-Man gameplay on a 21x19 tile grid, all drawn on a single <canvas>
 <br>
-2- 4 ghosts (blue, orange, pink, red) that move around randomly and bounce off walls
+2- 4 ghosts blu orange pink red that move around randomly and bounce off walls
 <br>
-3- eat the dots, get +10 points, watch a little popup float up when you do
+3- eat the dots get +10 points, watch a little popup float up when you do
 <br>
-4- 3 lives, lose them all and its game over
+4- 3 lives lose them all and its game over
 <br>
-5- high score gets saved in `localStorage` so it survives a refresh
+5- high score gets saved in localstorage so it survives a refresh
 <br>
-6- screen shakes for a sec when a ghost gets you (dramatic i know)
+6- screen shakes for a sec when a ghost gets you dramatic i know
 <br>
 7- press any arrow key after game over to reset and go again
 
