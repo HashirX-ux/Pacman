@@ -1,92 +1,41 @@
-body{
+body {
     text-align: center;
     background-color: #050505;
     margin: 0;
     padding-top: 48px;
     font-family: "Courier New", Courier, monospace;
-    /*Keeping the grid from chasing scroll Bars*/
     overflow: hidden;
     position: relative;
-    /*Putting the grid behind the canvas so it matches the board line*/
     z-index: 0;
-    /* Creating the animation for the Pacman */
-    animation: crtFlicker 6s infinite;
 }
 
-/* Creating a hardware accelerated layer for the grid to load to reduce the potential lag of the pacman and the ghosts */
-body::before{
+/* Hardware accelerated static background grid */
+body::before {
     content: "";
     position: absolute;
     top: -38px;
     left: -38px;
-    /* Did the math using some research gng SO i DESERVE some recognition for that XD */
     width: calc(100% + 60px);
     height: calc(100% + 60px);
     z-index: -1;
-
     background-image: 
     radial-gradient(rgba(0, 255, 255, 0.18) 1px, transparent 1px),
     linear-gradient(rgba(0, 255, 255, 0.08) 1px, transparent 1px),
     linear-gradient(90deg, rgba(0, 255, 255, 0.08) 1px, transparent 1px);
     background-size: 90px, 90px, 30px, 30px, 30px, 30px;
-
-
-    /* Uisng the transform is GPU and causes zero lag.. Found this online gng yayayay */
-    animation: scrollGrid 20s linear infinite;
 }
 
-/* scrollGrid animation for the board.. */
-@keyframes scrollGrid{
-    0% {transform: translate(0px, 0px);}
-    100% {transform: translate(30px, 30px);}
-}
-
-
-
-body::after{
-    content: "";
-    position: fixed;
-    inset: 0;
-    pointer-events: none;
-    background: radial-gradient(circle at center, transparent 45%, rgba(0, 0, 0, 0.8) 100%);
-    z-index: 1;
-}
-
-
-/* Flickering animation config for the board of the pacman */
-@keyframes crtFlicker {
-    0%, 96%, 100% {opacity: 1;}
-    97% {opacity: 0.94;}
-    98.5% {opacity: 0.98;}
-}
-
-#arcadeTitle{ 
+#arcadeTitle { 
     color: #0ff;
     font-size: 2.2rem;
     letter-spacing: 10px;
     margin: 0 0 24px; 
     position: relative;
     z-index: 2;
-    text-shadow: 0 0 8px #0ff, 0 0 20px #0ff, 0 0 45px #00e5ff;
-    animation: neonSignFlicker 4s infinite, titleWiggle 3s ease-in-out infinite; 
+    /* Simplified to a single glow layer for performance */
+    text-shadow: 0 0 15px #0ff;
 }
 
-/* Neon Light for the colors and visual of the board */
-@keyframes neonSignFlicker {
-    0%, 18%, 22%, 25%, 53%, 57%, 100% {opacity: 1;}
-    20%, 24%, 55% {opacity: 0.35;}  
-}  
-
-/* Tile Wiggling animation on top of the board to get the CLASSSYYYYYY LOOOOOK GNGNGNGNGNGNG */
-@keyframes titleWiggle{
-    0%, 100% {transform: rotate(0deg);}
-    /* These calculation were researched gng cause my dumb ahh could understand the wiggling of the frames (flower emoji) */
-    25% {transform: rotate(-1.5deg);}
-    75% {transform: rotate(-1.5deg);}
-}
-
-
-/* Board design config system */
 #board { 
     position: relative;
     z-index: 2;
@@ -94,53 +43,19 @@ body::after{
     background-color: black;
     border: 4px solid #111;
     border-radius: 8px;
-    /* Creating a neon glow behind the board of the map for the visuals part */
-    box-shadow: 0 0 20px rgba(0, 255, 255, 0.2), 0 0 50px rgba(0, 100, 255, 0.3);
-    /* Creating the animation for the visuals of the board */
-    animation: neonPulse 2.5s ease-in-out infinite alternate, boardIntro 0.8s ease-out hueCycle 10s linear infinite;
+    /* Simplified to a single, cheaper glow layer */
+    box-shadow: 0 0 20px rgba(0, 100, 255, 0.4);
+    animation: boardIntro 0.8s ease-out forwards;
 }
 
-/* Configuring all the animation for the board and its visuals */
-/* neonPulse animation for the board amd its visuals */
-@keyframes neonPulse {  
-    0% {box-shadow: 0 0 20px rgba(0, 255, 255, 0.2), 0 0 50px rgba(0, 100, 255, 0.3);}
-    100% {box-shadow:  0 0 32px rgba(0, 255, 255, 0.5), 0 0 70px rgba(0, 100, 255, 0.55);}
-}
-
-/* boardIntro animation for the board and its visuals */
-@keyframes boardIntro{
+@keyframes boardIntro {
     from {opacity: 0; transform: scale(0.94);}
     to {opacity: 1; transform: scale(1);}
 }
 
-/* Creating the rainbow stylw animation and visual for the board */
-@keyframes hueCycle{
-    0% {filter: hue-rotate(0deg); }
-    /* Color style animatio of the board */
-    100% {filter: hue-rotate(360deg); } 
-} 
-
-/* Defining the after effects of the board */
-#board::after{ 
-    content: "";
-    /* Getting the position to the absolute for the visual */
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    background: repeating-linear-gradient(
-        /* Defining the colors for pixel grading and its shades */
-        /* These colors were researched So I reserver recognition for that plsssssssssssssss */
-        rgba(0, 0, 0, 0) 0px,
-        rgba(0, 0, 0, 0) 2px,
-        rgba(0, 0, 0, 0.15) 3px
-    ); 
-}
-
-/* Creating the blinking start prompt for the user */
 #pressStart {
     color: #ff0;
     font-size: 0.9rem;
-    /* planned to add 3.5 px of letter spacing but the 3px one was looking wayyy better */
     letter-spacing: 3px;
     margin-top: 20px;
     position: relative;
@@ -148,10 +63,7 @@ body::after{
     animation: blink 1s steps(1) infinite;
 }
 
-/* Defining the blinking animation configuration for the game */
-@keyframes blink{
+@keyframes blink {
     0%, 49% {opacity: 1;}
     50%, 100% {opacity: 0;}
 }
-
-
