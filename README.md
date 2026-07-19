@@ -4,7 +4,7 @@ a browser based Pac-Man clone i built with plain HTML, CSS and vanilla JS. No fr
 
 started this as a "how hard can it actually be" project.. turns out pretty hard gng but here we are.
 
-#DISCLAIMER!
+# Error Fixed gng.....
 ## Fixing the choppy movement
 
 The game was originally running on setTimeout(update 50) which meant both movement and drawing were locked to a fixed 50ms timer that doesnt actually sync with your monitors refresh rate so it looked stutery even tho the logic was tecnically fine... Swapping straight to requestanimationframe fixed the choppiness but broke the speed instead since rAF fires like 3x more often than the old timer did. Tried dividing the velocity down to compensate but that introduced non whole pixel movement which desynced everything from the 32px grid and broke collisions RIP that one ghost....
