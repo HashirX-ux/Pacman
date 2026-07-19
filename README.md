@@ -57,21 +57,21 @@ once the gameplay worked i spent a stupid amount of time making it look like an 
 ## Running it locally...
 
 1. clone the repo
-```
-git clone https://github.com/HashirX-ux/Pacman.git
-```
-2--> you'll also need these image assets chilling in the same folder as `index.html` (not gonna paste them in this readme obviously, but they better be in the repo lol):
-1- `wall.png`
-2- `blueGhost.png` `orangeGhost.png` `pinkGhost.png` `redGhost.png`
-3- `pacmanUp.png` `pacmanDown.png` `pacmanLeft.png` `pacmanRight.png`
 
-3. just open `index.html` in your browser lol. no build step, no npm install, no nothing. it's literally just a webpage, don't overthink it
+--> git clone https://github.com/HashirX-ux/Pacman.git
+
+2--> you'll also need these image assets chilling in the same folder as index.html (not gonna paste them in this readme obviously, but they better be in the repo lol):
+1- wall.png
+2- blueGhost.png orangeGhost.png pinkGhost.png redGhost.png
+3- pacmanUp.png pacmanDown.png pacmanLeft.png pacmanRight.png
+
+3. just open index.html in your browser gng.... no build step no npm install no nothing. its literally just a webpage dont overthink it
 
 ## Files
 
-1- `index.html` — the page itself just loads up the canvas + css + js nothing fancy
-2- `File.js` — where all the actual brain of the game lives lol. movement collisions ghost AI score all of it
-3- `File.css` — the grid background and all the neon/arcade glow-up effects (well whatever glow survived after the great performance fix era ..)
+1- index.html — the page itself just loads up the canvas + css + js nothing fancy
+2- File.js — where all the actual brain of the game lives lol. movement collisions ghost AI score all of it
+3- File.css — the grid background and all the neon/arcade glow-up effects (well whatever glow survived after the great performance fix era ..)
 
 
 ## Known issues / stuff i still wanna fix..
@@ -84,4 +84,4 @@ git clone https://github.com/HashirX-ux/Pacman.git
 
 built by me for Hack Club Horizons. the tile map layout was AI-generated since i could not for the life of me get the math right by hand, and i leaned on AI for some of the CSS animation syntax + fixing a bunch of my own typos along the way (turns out `box-shadow` and `box-sizing` are, in fact, different properties). everything else — the actual game logic, collision handling, all of it — i wrote and debugged myself.
 
-thanks for checking it out, go eat some dots 
+thanks for checking it out, go eat some dots or whatever you prefer bro/bri..
