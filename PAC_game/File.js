@@ -100,7 +100,7 @@ window.onload = function() {
     
     update();      
     // press on the and let go and key automatically comes back up
-    document.addEventListener("keyup", movePacman);
+    document.addEventListener("keydown", movePacman);
 
 }
     
@@ -352,6 +352,7 @@ function move() {
             }
         //Function for Resetting the positions of the pacman and the ghosts after the colloision..
             resetPositions();
+            break;
         }
 
         //Error config for the 9th row if they get stuck..Force em out.. 
@@ -377,6 +378,7 @@ function move() {
                 const newDirection  = directions[Math.floor(Math.random()* 4)]
                 //Updating the new direction.. 
                 ghost.updateDirection(newDirection);
+                break;
             }
          }
     }
@@ -478,7 +480,8 @@ function resetPositions() {
     //Pacman reset config....
     pacman.reset();
     pacman.velocityX = 0;
-    pacman.VelocityY = 0;
+    pacman.velocityY = 0;
+    scorePopups.length = 0;
 
     for (let ghost of ghosts.values()) {
          ghost.reset();
@@ -508,27 +511,26 @@ class Block {
    }
    
    // updating the direction.... 
-     updateDirection(direction) {
-        //Saving the previous direction.... 
-        const prevDirection = this.direction; 
-        this.direction = direction;// efwf fw wfw
+    updateDirection(direction) {
+        const prevDirection = this.direction;
+        const prevVelocityX = this.velocityX;
+        const prevVelocityY = this.velocityY;
+        this.direction = direction;
         this.updateVelocity();
-        //Check for the colloision and if the colloision happens we take a step back
         this.x += this.velocityX;
         this.y += this.velocityY;
 
-        // Iterating thro the set of walls... 
-        for(let wall of walls.values()) {
-            if(colloision(this, wall)) {
-                //Direction Variations for the GNG :D
-                this.x -= this.velocityX;
-                this.y -= this.velocityY; 
-                this.direction = prevDirection; 
-                this.updateVelocity();
-                //We don't need to chk cause we know which wall we are gonna collidde 
+    for (let wall of walls.values()) {
+        if (colloision(this, wall)) {
+            this.x -= this.velocityX;
+            this.y -= this.velocityY;
+            this.direction = prevDirection;
+            this.velocityX = prevVelocityX;
+            this.velocityY = prevVelocityY;
+            break;
             }
         }
-   } 
+    }
 
 
    // Direction Control of the Pacman 
