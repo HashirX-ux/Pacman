@@ -21,6 +21,7 @@ started this as a "how hard can it actually be" project.. turns out pretty hard 
 7- press any arrow key after game over to reset and go again
 
 ## Visual stuff...
+<img width="633" height="678" alt="image" src="https://github.com/user-attachments/assets/538885f1-3497-46d7-bb6b-8234f6a2b00d" />
 
 once the gameplay worked i spent a stupid amount of time making it look like an actual arcade cabinet instead of a plain black box lol:
 
@@ -43,6 +44,7 @@ once the gameplay worked i spent a stupid amount of time making it look like an 
 ## Controls...
 
 `Arrow Keys` or `WASD` — thats it, thats the whole control scheme. move pacman around, dont run into a ghost.
+<img width="749" height="709" alt="image" src="https://github.com/user-attachments/assets/b2238f38-cfca-41bb-a1d1-f61d9bd4c90f" />
 
 ## Running it locally...
 
@@ -66,9 +68,9 @@ git clone https://github.com/HashirX-ux/Pacman.git
 
 ## Known issues / stuff i still wanna fix
 
-- pacman stops dead at the tunnel openings on the sides instead of wrapping around to the other side like the real game does. classic tunnel teleport is still on the todo list
-- ghosts pick a random direction on every wall bump so sometimes they look a lil derpy standing in one spot for a sec, its not a bug its a feature (its a bug)
-- no mobile/touch controls yet, keyboard only for now
+1- pacman stops dead at the tunnel openings on the sides instead of wrapping around to the other side like the real game does. classic tunnel teleport is still on the todo list
+2- ghosts pick a random direction on every wall bump so sometimes they look a lil derpy standing in one spot for a sec, its not a bug its a feature (its a bug)
+3- no mobile/touch controls yet, keyboard only for now
 
 ## Credits: 
 
