@@ -76,4 +76,4 @@ git clone https://github.com/HashirX-ux/Pacman.git
 
 built by me for Hack Club Horizons. the tile map layout was AI-generated since i could not for the life of me get the math right by hand, and i leaned on AI for some of the CSS animation syntax + fixing a bunch of my own typos along the way (turns out `box-shadow` and `box-sizing` are, in fact, different properties). everything else — the actual game logic, collision handling, all of it — i wrote and debugged myself.
 
-thanks for checking it out, go eat some dots 🟡
+thanks for checking it out, go eat some dots 
